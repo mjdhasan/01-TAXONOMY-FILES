@@ -20,9 +20,17 @@ Mapping exercises have been completed to identify mcrossovers and differences be
 
 ## Use Cases - Point Solutions
 
-#### AIB - EBA Pillar 3 Reporting
+#### Irish Banks - EBA Pillar 3 Reporting
 
-First Derivative, in partnership with Corlytics and Solidatus, has been working with AIB to prepare for forthcoming reporting requirements under the EBA's Pillar 3 ESG Disclosure regime. 
+First Derivative, in partnership with Corlytics and Solidatus, has been working with a partner Irish bank to prepare for forthcoming reporting requirements under the EBA's Pillar 3 ESG Disclosure regime. 
+
+##### Our Solution:
+- FD have designed a solution that pulls in internal and external counterparty data directly from the sources into a model using Corlytics
+- Uses a Solidatus model to show how data flows from source and maps to Template 1 of EBA Pillar III, and to begin building out the data profile of each counterparty
+- The data is then grouped together by NACE code and totalled, then mapped to the relevant fields in the EBA Pillar III templates
+- The model will have built in proxies to fill data gaps, reports on completeness and will enable the user to download reports
+- This solution can be used beyond EBA Pillar III and lays the foundation for future regulatory reporting
+- The aim is to enhance the model by enabling automated updates, including via connectors which will feed data scraped from external sources into the model
 
 ## Use Cases - End-to-End Solutions
 
