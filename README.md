@@ -20,6 +20,10 @@ Mapping exercises have been completed to identify mcrossovers and differences be
 
 ## Use Cases - Point Solutions
 
+#### AIB - EBA Pillar 3 Reporting
+
+First Derivative, in partnership with Corlytics and Solidatus, has been working with AIB to prepare for forthcoming reporting requirements under the EBA's Pillar 3 ESG Disclosure regime. 
+
 ## Use Cases - End-to-End Solutions
 
 ## Regulatory Taxonomy Samples e.g. EBA Pillar 3, ESG Risk Disclosure CRR 144a, Source Source: Corlytics Date Stamp: 01-Aug-2022
