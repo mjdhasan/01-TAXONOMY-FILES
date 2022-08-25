@@ -14,7 +14,11 @@ Regulatory taxonomies have been provided by OS-SFT Componentry Partner, Corlytic
 
 ## Taxonomy Mapping
 
-Mapping exercises have been completed to identify crossovers and differences between ISSB requirements and those of the above reporting regimes. Comparisons were made across disclosure requirements spanning governance, strategy, risk management, and metrics/targets including specific GHG emissions and exposure metrics and methodologies. This resulted in the identification of potential synergies with current reporting activities and data requirements, including how these might inform asset re-pricing and incorporation of climate risk metrics into existing risk practices. See below for these mappings, which have been modelled using the data lineage tool provided by OS-SFT Componentry Partner, Solidatus:
+Mapping exercises have been completed to identify crossovers and differences between ISSB requirements and those of the above reporting regimes.
+- Comparisons were made across disclosure requirements spanning governance, strategy, risk management, and metrics/targets including specific GHG emissions and exposure metrics and methodologies.
+- This resulted in the identification of potential synergies with current reporting activities and data requirements, including how these might inform asset re-pricing and incorporation of climate risk metrics into existing risk practices. 
+
+See below for these mappings, which have been modelled using the data lineage tool provided by OS-SFT Componentry Partner, Solidatus:
 
 #### [One model per mapping? Or one overall model?]
 
