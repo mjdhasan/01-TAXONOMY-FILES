@@ -55,8 +55,9 @@ In comparion to SASB, ISSB has general requirementsand touches on governance, st
 
 #### ISSB v SEC
 ![image](https://user-images.githubusercontent.com/112077283/187191870-84efc32f-09c3-49db-955d-f88e095e3bbc.png)
-
-
+* The SEC's disclosure plans combine prescriptive rules-based disclosure requirements, which specifically specify issuers what must be given, with principles-based disclosure requirements, which provide the registrant significant choice over what information to disclose. The proposals' scopes significantly vary as well. The SEC plan only addresses climate change. The ISSB proposal now comprises broad rules and procedures for climate disclosure, but plans to include more ESG subjects in the future.
+* Although the SEC's proposal for disclosure of information linked to climate change is restricted to climate, the agency's regulatory agenda indicates that it is likely to propose disclosure rules for other ESG-related issues, including board diversity, human capital, and cybersecurity. Although the scope of the ISSB's proposal is intended to broaden with subsequent exposure draughts, which are anticipated to eventually encompass the whole ESG landscape, it solely addresses climate and other environmental disclosure topics.
+* ISSB is more aligned with TFCD than the SEC. With regard governance, strategy and risk, ISSB includes descriptions of transition plans and various scenario analysis and the difference with the SEC is that the disclosure is required only if the company uses the item and optional reporting of climate related opportunities
 
 #### ISSB v EFRAG 
 ![image](https://user-images.githubusercontent.com/112077283/187192217-1f102891-479f-461b-b3c2-c7d9239aa097.png)
