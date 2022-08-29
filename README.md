@@ -22,8 +22,15 @@ We see a future where end-to-end, multi-nodal taxonomy mapping becomes central t
 See below for these mappings, which have been modelled using the data lineage tool provided by OS-SFT Componentry Partner, [Solidatus](https://trial.solidatus.com/viewer/62cc23ee183906050cfcbeae):
 
 #### [ISSB v TCFD]
+![image](https://user-images.githubusercontent.com/112077283/187191045-d1b9df41-494f-488e-b496-7fb3bd6e09e5.png)
 
+#### ISSB v EBA Pillar 3
 
+#### ISSB v SASB 
+
+#### ISSB v SEC
+
+#### ISSB v EFRAG 
 
 
 
