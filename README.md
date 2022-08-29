@@ -56,10 +56,16 @@ In comparion to SASB, ISSB has general requirementsand touches on governance, st
 #### ISSB v SEC
 ![image](https://user-images.githubusercontent.com/112077283/187191870-84efc32f-09c3-49db-955d-f88e095e3bbc.png)
 
+
+
 #### ISSB v EFRAG 
 ![image](https://user-images.githubusercontent.com/112077283/187192217-1f102891-479f-461b-b3c2-c7d9239aa097.png)
-
-
+* A few comparisons and similarities include: ESRS and ISSB proposals include the four main pillars of TCFD to frame its proposal, while, in addition to the pillars, they integrate the underlying 11 disclosure recommendations of the framework. Both ESRS and ISSB introduce additional requirements and call for different
+disclosure defnitions or locations for certain components, but otherwise fully align with TCFD guidance. 
+* Companies should be prepared to calculate emissions to disclose for the FY23 reporting year because the ESRS and ISSB plans specifically ask for disclosure of Scope 3 emissions (indirect emissions from an issuer's upstream and downstream value chains). In contrast to ESRS, which mandates Scope 3 disclosure regardless of materiality, IFRS leaves materiality up to users' and regulators' assessment because it cannot impose ISSB requirements across jurisdictions.
+* The principles of the ISSB are founded on the idea of "single materiality, or those sustainability concerns that are important for generating company value. The double materiality" of sustainability issues, which have an impact on both the environment and society as a whole, is emphasised by EFRAG standards. Single versus dual materiality.
+* The ISSB proposals is mainly investor based, whereas EFRAG focuses on a much wider and multi-staker holder basis.
+* EFRAG requirements are much more granular published for sustainability impacts, risk and opportunities, while ISSB includes gneral requiremnts that is not only climate based but significant sustainablity related risks and opportunities. 
 
 ## Use Cases - Point Solutions
 
