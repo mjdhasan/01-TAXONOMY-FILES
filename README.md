@@ -21,7 +21,7 @@ We see a future where end-to-end, multi-nodal taxonomy mapping becomes central t
 
 See below for these mappings, which have been modelled using the data lineage tool provided by OS-SFT Componentry Partner, [Solidatus](https://trial.solidatus.com/viewer/62cc23ee183906050cfcbeae):
 
-#### [ISSB v TCFD]
+#### ISSB v TCFD
 ![image](https://user-images.githubusercontent.com/112077283/187191045-d1b9df41-494f-488e-b496-7fb3bd6e09e5.png)
 The ISSB has made a [comparison](https://www.ifrs.org/content/dam/ifrs/project/climate-related-disclosures/comparison-draft-ifrs-s2-climate-related-disclosures-with-the-tcfd-recommendations.pdf) of the ideas and the recommendations of the FSB Task Force on Climate-related Financial Disclosures (TCFD) available.
 TCFD is the baseline in which the ISSB disclosures are based off but there are soem obvious differences from the 4 pillars of TCFD inclduing: 
@@ -43,8 +43,15 @@ TCFD is the baseline in which the ISSB disclosures are based off but there are s
 #### ISSB v EBA Pillar 3
 ![image](https://user-images.githubusercontent.com/112077283/187191588-2b83a303-17ab-40d4-96be-1b78a3b07adf.png)
 
+
+
 #### ISSB v SASB 
 ![image](https://user-images.githubusercontent.com/112077283/187191741-a5b40688-0e66-43e8-a8a6-07216cfc0750.png)
+
+Since SASB develop sustainability accounting standrads most relevant to the financial performance in 77 industries, we can see a clear comparison with ISSB S2 appendix B as that identifies and discloses onformation on climate risks and opportunities for industries also. The industries we decided that would be most relevant to map and comparewere asset management and custody activities, insurance, commercial banls, investment banks and brokerage and mortgage finance. 
+
+In order to ensure connection and compatibility between IFRS Accounting Standards and the ISSB's standards—IFRS Sustainability Disclosure Standards—the ISSB will work closely with the IASB. In order to give investors and other participants in the capital market comprehensive information to meet their needs, each board will be independent and their standards will complement one another. The creation of the IFRS Sustainability Disclosure Standards was fundamentally influenced by the sector-based SASB Standards. The ISSB has promised to expand upon the industry-based SASB Standards and utilise its method for developing standards that is also industry-based.
+In comparion to SASB, ISSB has general requirementsand touches on governance, strategy, risk management and metrics and targets, as well as industry based discolsures which were derived From SASB Standards. 
 
 #### ISSB v SEC
 ![image](https://user-images.githubusercontent.com/112077283/187191870-84efc32f-09c3-49db-955d-f88e095e3bbc.png)
