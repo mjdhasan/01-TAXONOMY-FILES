@@ -34,7 +34,7 @@ See below for these mappings, which have been modelled using the data lineage to
 ![image](https://user-images.githubusercontent.com/112077283/187191870-84efc32f-09c3-49db-955d-f88e095e3bbc.png)
 
 #### ISSB v EFRAG 
-
+![image](https://user-images.githubusercontent.com/112077283/187192217-1f102891-479f-461b-b3c2-c7d9239aa097.png)
 
 
 
