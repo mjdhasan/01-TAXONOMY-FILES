@@ -23,6 +23,22 @@ See below for these mappings, which have been modelled using the data lineage to
 
 #### [ISSB v TCFD]
 ![image](https://user-images.githubusercontent.com/112077283/187191045-d1b9df41-494f-488e-b496-7fb3bd6e09e5.png)
+The ISSB has made a [comparison](https://www.ifrs.org/content/dam/ifrs/project/climate-related-disclosures/comparison-draft-ifrs-s2-climate-related-disclosures-with-the-tcfd-recommendations.pdf) of the ideas and the recommendations of the FSB Task Force on Climate-related Financial Disclosures (TCFD) available.
+TCFD is the baseline in which the ISSB disclosures are based off but there are soem obvious differences from the 4 pillars of TCFD inclduing: 
+* Governance
+  * The Exposure Draft complies with the TCFD governance guideline; nonetheless, it calls for the disclosure of more governance-related information, including more precision on individuals' names, roles, and duties as well as particular controls and processes. Basically ISSB requires more granular and additional information whihc needs to be disclosed.
+  
+* Strategy
+  * The Exposure Draft also takes a somewhat different tack when it comes to transition plans, and it makes clear demands on the disclosure of emission reduction goals and the usage of carbon offsets.
+  * The Exposure Draft also requires some additional information regarding resiliency which might be helpful. 
+  
+* Risk Management 
+  * With a few adjustments to the methods used to identify and prioritise opportunities, input parameters used to determine risks, and whether processes have changed, the exposure draft is compliant with the TCFD suggested disclosure.
+
+* Metrics and Targets
+  * Suggests a few extra particular disclosures that should be carefully read.
+  * The TCFD advice and the Exposure Draft both call for the same types of cross-industry measurements. The Exposure Draft proposes new disclosure rules for industry-based indicators pertinent to an entity's sector and operations.
+  * The Exposure Draft mandates a novel approach to the disclosure of greenhouse gases that must be carefully examined, and Scope 3 emission disclosure is now a prerequisite.
 
 #### ISSB v EBA Pillar 3
 ![image](https://user-images.githubusercontent.com/112077283/187191588-2b83a303-17ab-40d4-96be-1b78a3b07adf.png)
