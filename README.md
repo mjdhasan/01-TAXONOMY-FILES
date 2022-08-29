@@ -43,7 +43,11 @@ TCFD is the baseline in which the ISSB disclosures are based off but there are s
 #### ISSB v EBA Pillar 3
 ![image](https://user-images.githubusercontent.com/112077283/187191588-2b83a303-17ab-40d4-96be-1b78a3b07adf.png)
 
-
+The EBA ESG Pillar 3 package will help to address shortcomings of institutions’ current ESG disclosures at EU level by setting mandatory and consistent disclosure requirements, including granular templates, tables and associated instructions. It will also help establish best practices at an international level. It is simalr to ISSB in the way that it sets out comparable quantitative disclosures on climate-change related transition and physical risks, including information on exposures towards carbon related assets and assets subject to chronic and acute climate change events. The main differences include: 
+* The EBA appreciates the opportunity to participate in these consultainvolving ISSB and EFRAG and supports the introduction of international and European standards to meet the growing demand for comparable, accurate, and pertinent corporate data on sustainability-related issues. The EBA also recognises the importance of close coordination between the ISSB and EFRAG as they close out their own consultations to ensure consistency.
+* As a tool to demonstrate how institutions are integrating sustainability considerations into their risk management, business models, and strategy as well as their path toward the Paris Agreement goals, EBA offers comparable disclosures and key performance indicators, such as a green asset ratio (GAR) and a banking book taxonomy alignment ratio (BTAR), in comparison to ISSB.
+* The disclosure requirements implemented are organised by risk category just like ISSB and TCFD. The categories include governance, business modle and strategy and risk management. 
+* To guarantee improved uniformity, comparability, and meaningfulness of these disclosures by institutions, the EBA has also established the disclosure dates, granular templates, tables, and instructions.
 
 #### ISSB v SASB 
 ![image](https://user-images.githubusercontent.com/112077283/187191741-a5b40688-0e66-43e8-a8a6-07216cfc0750.png)
