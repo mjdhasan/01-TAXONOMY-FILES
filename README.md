@@ -25,6 +25,7 @@ See below for these mappings, which have been modelled using the data lineage to
 ![image](https://user-images.githubusercontent.com/112077283/187191045-d1b9df41-494f-488e-b496-7fb3bd6e09e5.png)
 
 #### ISSB v EBA Pillar 3
+![image](https://user-images.githubusercontent.com/112077283/187191588-2b83a303-17ab-40d4-96be-1b78a3b07adf.png)
 
 #### ISSB v SASB 
 
