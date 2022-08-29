@@ -31,6 +31,7 @@ See below for these mappings, which have been modelled using the data lineage to
 ![image](https://user-images.githubusercontent.com/112077283/187191741-a5b40688-0e66-43e8-a8a6-07216cfc0750.png)
 
 #### ISSB v SEC
+![image](https://user-images.githubusercontent.com/112077283/187191870-84efc32f-09c3-49db-955d-f88e095e3bbc.png)
 
 #### ISSB v EFRAG 
 
