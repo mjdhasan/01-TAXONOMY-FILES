@@ -58,6 +58,7 @@ In order to ensure connection and compatibility between IFRS Accounting Standard
 In comparion to SASB, ISSB has general requirementsand touches on governance, strategy, risk management and metrics and targets, as well as industry based discolsures which were derived From SASB Standards. 
 
 #### ISSB v SEC
+
 ![image](https://user-images.githubusercontent.com/112077283/187191870-84efc32f-09c3-49db-955d-f88e095e3bbc.png)
 * The SEC's disclosure plans combine prescriptive rules-based disclosure requirements, which specifically specify issuers what must be given, with principles-based disclosure requirements, which provide the registrant significant choice over what information to disclose. The proposals' scopes significantly vary as well. The SEC plan only addresses climate change. The ISSB proposal now comprises broad rules and procedures for climate disclosure, but plans to include more ESG subjects in the future.
 * Although the SEC's proposal for disclosure of information linked to climate change is restricted to climate, the agency's regulatory agenda indicates that it is likely to propose disclosure rules for other ESG-related issues, including board diversity, human capital, and cybersecurity. Although the scope of the ISSB's proposal is intended to broaden with subsequent exposure draughts, which are anticipated to eventually encompass the whole ESG landscape, it solely addresses climate and other environmental disclosure topics.
