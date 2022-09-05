@@ -1,4 +1,4 @@
-# OS-SF Taxonomy Projects Overview
+# Projects Overview
 ## Taxonomy
 Regulatory taxonomies have been provided by OS-SFT Componentry Partner, Corlytics. See below for these taxonomies:
 * [ISSB Exposure Draft S1](https://www.ifrs.org/content/dam/ifrs/project/general-sustainability-related-disclosures/exposure-draft-ifrs-s1-general-requirements-for-disclosure-of-sustainability-related-financial-information.pdf)
