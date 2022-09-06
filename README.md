@@ -21,7 +21,7 @@ so that we build on the foudnations of a library of single taxonomies.
 [Note - The Library is a collation of all taxonomy projects]
 
 ## Taxonomy
-Regulatory taxonomies have been provided by OS-SFT Componentry Partner, Corlytics. See below for these taxonomies:
+OS-SFT Service and Delivery Partner First Derivative has undertaken initial research and taxonomy analysis in relation to the following ESG disclosure regimes. Note that several of these regimes are at the proposal stage only and have not yet been finalised by the relevant bodies:
 * [ISSB Exposure Draft S1](https://www.ifrs.org/content/dam/ifrs/project/general-sustainability-related-disclosures/exposure-draft-ifrs-s1-general-requirements-for-disclosure-of-sustainability-related-financial-information.pdf)
 * [ISSB Exposure Draft S2](https://www.ifrs.org/content/dam/ifrs/project/climate-related-disclosures/issb-exposure-draft-2022-2-climate-related-disclosures.pdf)
 * [ISSB Expusre Draft S2 Appendix B](https://www.ifrs.org/content/dam/ifrs/project/climate-related-disclosures/issb-exposure-draft-2022-2-appendix-b.pdf)
