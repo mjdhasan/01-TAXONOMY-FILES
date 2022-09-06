@@ -32,6 +32,8 @@ OS-SFT Service and Delivery Partner First Derivative has undertaken initial rese
 * [EFRAG- RSRS General Principles](https://www.efrag.org/Assets/Download?assetUrl=%2Fsites%2Fwebpublishing%2FSiteAssets%2FED_ESRS_1.pdf)
 * [EFRAG - ESRS - Climate Change](https://www.efrag.org/Assets/Download?assetUrl=%2Fsites%2Fwebpublishing%2FSiteAssets%2FED_ESRS_E1.pdf)
 
+[Suggest formatting the above into a table to form the library. Columns could include website/document link, stage (proposal, published etc.), latest update date...]
+
 ## Taxonomy Mapping
 Mapping exercises have been completed to identify crossovers and differences between ISSB requirements and those of the above reporting regimes.
 - Comparisons were made across disclosure requirements spanning governance, strategy, risk management, and metrics/targets including specific GHG emissions and exposure metrics and methodologies.
