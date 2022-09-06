@@ -32,7 +32,7 @@ OS-SFT Service and Delivery Partner First Derivative has undertaken initial rese
 * [EFRAG- RSRS General Principles](https://www.efrag.org/Assets/Download?assetUrl=%2Fsites%2Fwebpublishing%2FSiteAssets%2FED_ESRS_1.pdf)
 * [EFRAG - ESRS - Climate Change](https://www.efrag.org/Assets/Download?assetUrl=%2Fsites%2Fwebpublishing%2FSiteAssets%2FED_ESRS_E1.pdf)
 
-[Suggest formatting the above into a table to form the library. Columns could include website/document link, stage (proposal, published etc.), latest update date...]
+[Suggest formatting the above into a table to form the library. Columns could include link to taxonomy page within GitHub, regime website/document link, stage (proposal, published etc.), latest update date, provided by (i.e. FD research for now), etc...]
 
 ## Taxonomy Mapping
 Mapping exercises have been completed to identify crossovers and differences between ISSB requirements and those of the above reporting regimes.
@@ -54,7 +54,7 @@ We see a future where end-to-end, multi-nodal taxonomy mapping becomes central t
 ## Single Taxonomies 
 ### Taxonomy
 
-Regulatory taxonomies have been provided by OS-SFT Componentry Partner, Corlytics. See below for these taxonomies:
+Create separate repository pages for each of the below:
 
 #### EBA Pillar 3 ESG Disclosures 
 
