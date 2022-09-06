@@ -1,6 +1,11 @@
 **PAGE STATUS**
 ```diff
 - In Development
+# Johnny M and John K discussed creating libary using:
+single taxonomies (plus their versions)
+then pairwise taxonomy mappings (e.g. TCFD-ISSB)
+and then some examples of a string of taxonomy mappings (e.g. TCFD-EBA Pillar 3-ISSB)
+so that we build on the foudnations of a library of single taxonomies.
 ```
 
 **PAGE KEY**
@@ -50,7 +55,7 @@ See below for these mappings, which have been modelled using the data lineage to
 [insert project]
 ## Other
 
-# Projects Catalogue
+# Library Examples
 
 ## Taxonomy
 
