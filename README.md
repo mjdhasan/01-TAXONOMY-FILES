@@ -38,13 +38,6 @@ Mapping exercises have been completed to identify crossovers and differences bet
 - This resulted in the identification of potential synergies with current reporting activities and data requirements, including how these might inform asset re-pricing and incorporation of climate risk metrics into existing risk practices. This is of particular interest to the evolving sustainable finance solutions being developed between [First Derivative](https://firstderivative.com/sustainable-finance/), [Corlytics](https://www.corlytics.com/), [Solidatus](https://www.solidatus.com/) and [Sustainable Finance Ireland](https://www.sustainablefinance.ie/) with funding from [Skillnet Ireland](https://www.skillnetireland.ie/).
 We see a future where end-to-end, multi-nodal taxonomy mapping becomes central to all operating models for data, risk, controls and reporting.
 
-See below for these mappings, which have been modelled using the data lineage tool provided by OS-SFT Componentry Partner, [Solidatus](https://trial.solidatus.com/viewer/62cc23ee183906050cfcbeae):
-* [ISSB v TCFD](https://github.com/FD-SustainableFinance/ISSB-v-TCFD/tree/main)
-* [ISSB v EBA Pillar 3](https://github.com/FD-SustainableFinance/ISSB-v-EBA-Pillar-3/tree/main)
-* [ISSB v SASB](https://github.com/FD-SustainableFinance/ISSB-v-SASB/tree/main)
-* [ISSB v SEC](https://github.com/FD-SustainableFinance/ISSB-v-SEC/tree/main)
-* [ISSB v EFRAG](https://github.com/FD-SustainableFinance/ISSB-v-EFRAG/tree/main)
-
 ## Use Cases - Point Solutions
 * [Irish Banks EBA Pillar 3 Reporting](https://github.com/FD-SustainableFinance/Irish-Banks-EBA-Pillar-3-Reporting/tree/main)
 
@@ -56,18 +49,32 @@ See below for these mappings, which have been modelled using the data lineage to
 ## Other
 
 # Library Examples
-
-## Taxonomy
+## Single Taxonomies 
+### Taxonomy
 
 Regulatory taxonomies have been provided by OS-SFT Componentry Partner, Corlytics. See below for these taxonomies:
 
 #### EBA Pillar 3 ESG Disclosures 
 
-
+![image](https://user-images.githubusercontent.com/112077283/188676275-2e5ba8c2-d744-4aec-b917-d6531e5e91f7.png)
 
 #### Task Force on Climate-related Financial Disclosures (TCFD)
 
-[Insert Taxonomy Link / Document?]
+![image](https://user-images.githubusercontent.com/112077283/188676436-662da495-6287-4aae-b555-29608110a0e5.png)
+
+#### International Sustainability Standards Board (ISSB)
+![image](https://user-images.githubusercontent.com/112077283/188676553-f56015e9-111c-4690-90e5-01bfecd53d63.png)
+
+
+## Pairwise Taxonomies
+See below for these mappings, which have been modelled using the data lineage tool provided by OS-SFT Componentry Partner, [Solidatus](https://trial.solidatus.com/viewer/62cc23ee183906050cfcbeae):
+* [ISSB v TCFD](https://github.com/FD-SustainableFinance/ISSB-v-TCFD/tree/main)
+* [ISSB v EBA Pillar 3](https://github.com/FD-SustainableFinance/ISSB-v-EBA-Pillar-3/tree/main)
+* [TCFD v EBA Pillar 3] - In Progress
+
+## String Taxonomies
+See below for these mappings, which have been modelled using the data lineage tool provided by OS-SFT Componentry Partner, [Solidatus](https://trial.solidatus.com/viewer/62cc23ee183906050cfcbeae):
+![image](https://user-images.githubusercontent.com/112077283/188678070-3c0f3c60-8e89-40e6-9f69-c6a8a973d3b6.png)
 
 ## Use Cases - Point Solutions
 
