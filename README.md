@@ -69,15 +69,6 @@ Regulatory taxonomies have been provided by OS-SFT Componentry Partner, Corlytic
 
 [Insert Taxonomy Link / Document?]
 
-## Taxonomy Mapping
-
-Mapping exercises have been completed to identify crossovers and differences between ISSB requirements and those of the above reporting regimes.
-- Comparisons were made across disclosure requirements spanning governance, strategy, risk management, and metrics/targets including specific GHG emissions and exposure metrics and methodologies.
-- This resulted in the identification of potential synergies with current reporting activities and data requirements, including how these might inform asset re-pricing and incorporation of climate risk metrics into existing risk practices. This is of particular interest to the evolving sustainable finance solutions being developed between [First Derivative](https://firstderivative.com/sustainable-finance/), [Corlytics](https://www.corlytics.com/), [Solidatus](https://www.solidatus.com/) and [Sustainable Finance Ireland](https://www.sustainablefinance.ie/) with funding from [Skillnet Ireland](https://www.skillnetireland.ie/).
-We see a future where end-to-end, multi-nodal taxonomy mapping becomes central to all operating models for data, risk, controls and reporting.
-
-See below for these mappings, which have been modelled using the data lineage tool provided by OS-SFT Componentry Partner, [Solidatus](https://trial.solidatus.com/viewer/62cc23ee183906050cfcbeae):
-
 ## Use Cases - Point Solutions
 
 #### Irish Banks - EBA Pillar 3 Reporting
