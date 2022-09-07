@@ -46,7 +46,7 @@ OS-SFT Service and Delivery Partner First Derivative has undertaken initial rese
 
 [Suggest formatting the above into a table to form the library. Columns could include link to taxonomy page within GitHub, regime website/document link, stage (proposal, published etc.), latest update date, provided by (i.e. FD research for now), etc...]
 
-## Taxonomy Mapping
+## Taxonomy Mapping - _Add to [2] Taxonomy Tools?_
 Mapping exercises have been completed to identify crossovers and differences between ISSB requirements and those of the above reporting regimes.
 - Comparisons were made across disclosure requirements spanning governance, strategy, risk management, and metrics/targets including specific GHG emissions and exposure metrics and methodologies.
 - This resulted in the identification of potential synergies with current reporting activities and data requirements, including how these might inform asset re-pricing and incorporation of climate risk metrics into existing risk practices. This is of particular interest to the evolving sustainable finance solutions being developed between [First Derivative](https://firstderivative.com/sustainable-finance/), [Corlytics](https://www.corlytics.com/), [Solidatus](https://www.solidatus.com/) and [Sustainable Finance Ireland](https://www.sustainablefinance.ie/) with funding from [Skillnet Ireland](https://www.skillnetireland.ie/).
