@@ -20,7 +20,7 @@ so that we build on the foudnations of a library of single taxonomies.
 
 [Note - The Library is a collation of all taxonomy projects]
 
-## Taxonomy
+## Single Taxonomies
 OS-SFT Service and Delivery Partner First Derivative has undertaken initial research and taxonomy analysis in relation to the following ESG disclosure regimes. Note that several of these regimes are at the proposal stage only and have not yet been finalised by the relevant bodies:
 
 |Taxonomy|Type|Stage|Documentation|Date of Latest Update|Taxonomy Source|
