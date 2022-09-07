@@ -23,9 +23,6 @@ so that we build on the foudnations of a library of single taxonomies.
 ## Taxonomy
 OS-SFT Service and Delivery Partner First Derivative has undertaken initial research and taxonomy analysis in relation to the following ESG disclosure regimes. Note that several of these regimes are at the proposal stage only and have not yet been finalised by the relevant bodies:
 
-* [EFRAG- RSRS General Principles](https://www.efrag.org/Assets/Download?assetUrl=%2Fsites%2Fwebpublishing%2FSiteAssets%2FED_ESRS_1.pdf)
-* [EFRAG - ESRS - Climate Change](https://www.efrag.org/Assets/Download?assetUrl=%2Fsites%2Fwebpublishing%2FSiteAssets%2FED_ESRS_E1.pdf)
-
 |Taxonomy|Type|Stage|Documentation|Date of Latest Update|Taxonomy Source|
 |--------|----|-----|-------------|---------------------|------|
 |[ISSB Exposure Draft S1](https://github.com/FD-SustainableFinance/RESEARCH---INTERNATIONAL-SUSTAINABILITY-STANDARDS-BOARD)|Standard|Preliminary Feedback|[Exposure Draft on IFRS S1 General Requirements for Disclosure of Sustainability-related Financial Information](https://www.ifrs.org/content/dam/ifrs/project/general-sustainability-related-disclosures/exposure-draft-ifrs-s1-general-requirements-for-disclosure-of-sustainability-related-financial-information.pdf)|31 March 2022|First Derivative - Research|
