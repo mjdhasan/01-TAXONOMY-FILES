@@ -22,13 +22,7 @@ so that we build on the foudnations of a library of single taxonomies.
 
 ## Taxonomy
 OS-SFT Service and Delivery Partner First Derivative has undertaken initial research and taxonomy analysis in relation to the following ESG disclosure regimes. Note that several of these regimes are at the proposal stage only and have not yet been finalised by the relevant bodies:
-* [ISSB Exposure Draft S1](https://www.ifrs.org/content/dam/ifrs/project/general-sustainability-related-disclosures/exposure-draft-ifrs-s1-general-requirements-for-disclosure-of-sustainability-related-financial-information.pdf)
-* [ISSB Exposure Draft S2](https://www.ifrs.org/content/dam/ifrs/project/climate-related-disclosures/issb-exposure-draft-2022-2-climate-related-disclosures.pdf)
-* [ISSB Expusre Draft S2 Appendix B](https://www.ifrs.org/content/dam/ifrs/project/climate-related-disclosures/issb-exposure-draft-2022-2-appendix-b.pdf)
-* [EBA Pillar 3](https://www.eba.europa.eu/sites/default/documents/files/document_library/Publications/Draft%20Technical%20Standards/2022/1026171/EBA%20draft%20ITS%20on%20Pillar%203%20disclosures%20on%20ESG%20risks.pdf)
-* [TCFD](https://assets.bbhub.io/company/sites/60/2021/07/2021-TCFD-Implementing_Guidance.pdf)
-* [SASB](https://www.sasb.org/standards/download/?lang=en-us)
-* [SEC](https://www.sec.gov/files/33-11042-fact-sheet.pdf)
+
 * [EFRAG- RSRS General Principles](https://www.efrag.org/Assets/Download?assetUrl=%2Fsites%2Fwebpublishing%2FSiteAssets%2FED_ESRS_1.pdf)
 * [EFRAG - ESRS - Climate Change](https://www.efrag.org/Assets/Download?assetUrl=%2Fsites%2Fwebpublishing%2FSiteAssets%2FED_ESRS_E1.pdf)
 
@@ -43,8 +37,6 @@ OS-SFT Service and Delivery Partner First Derivative has undertaken initial rese
 |[SEC](https://github.com/FD-SustainableFinance/RESEARCH---SECURITIES-EXCHANGE-COMMISSION)|Proposed Rule|Preliminary Feedback|[The Enhancement and Standardization of Climate-Related Disclosures for Investors](https://www.sec.gov/rules/proposed/2022/33-11042.pdf)|21 March 2022|First Derivative - Research|
 |[EFRAG - RSRS General Principles](https://github.com/FD-SustainableFinance/RESEARCH---EUROPEAN-FINANCIAL-REPORTING-ADVISORY-GROUP)|
 |[EFRAG - ESRS - Climate Change](https://github.com/FD-SustainableFinance/RESEARCH---EUROPEAN-FINANCIAL-REPORTING-ADVISORY-GROUP)|
-
-[Suggest formatting the above into a table to form the library. Columns could include link to taxonomy page within GitHub, regime website/document link, stage (proposal, published etc.), latest update date, provided by (i.e. FD research for now), etc...]
 
 ## Taxonomy Mapping - _Add to [2] Taxonomy Tools?_
 Mapping exercises have been completed to identify crossovers and differences between ISSB requirements and those of the above reporting regimes.
