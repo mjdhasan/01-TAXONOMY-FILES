@@ -1,6 +1,11 @@
 **PAGE STATUS**
 ```diff
 - In Development
+# Johnny M and John K discussed creating libary using:
+single taxonomies (plus their versions)
+then pairwise taxonomy mappings (e.g. TCFD-ISSB)
+and then some examples of a string of taxonomy mappings (e.g. TCFD-EBA Pillar 3-ISSB)
+so that we build on the foudnations of a library of single taxonomies.
 ```
 
 **PAGE KEY**
@@ -12,9 +17,10 @@
 ```
 
 # [1] TAXONOMY FILES
-Library of Taxonomy Files - in human and machine readable format
 
-## Taxonomy Library
+[Note - The Library is a collation of all taxonomy projects]
+
+## Taxonomy
 OS-SFT Service and Delivery Partner First Derivative has undertaken initial research and taxonomy analysis in relation to the following ESG disclosure regimes. Note that several of these regimes are at the proposal stage only and have not yet been finalised by the relevant bodies:
 
 |Taxonomy|Type|Stage|Documentation|Date of Latest Update|Taxonomy Source|
@@ -35,10 +41,10 @@ Mapping exercises have been completed to identify crossovers and differences bet
 - This resulted in the identification of potential synergies with current reporting activities and data requirements, including how these might inform asset re-pricing and incorporation of climate risk metrics into existing risk practices. This is of particular interest to the evolving sustainable finance solutions being developed between [First Derivative](https://firstderivative.com/sustainable-finance/), [Corlytics](https://www.corlytics.com/), [Solidatus](https://www.solidatus.com/) and [Sustainable Finance Ireland](https://www.sustainablefinance.ie/) with funding from [Skillnet Ireland](https://www.skillnetireland.ie/).
 We see a future where end-to-end, multi-nodal taxonomy mapping becomes central to all operating models for data, risk, controls and reporting.
 
-## Use Cases - Point Solutions - _Add to [4] Taxonomy Use Cases?_
+## Use Cases - Point Solutions
 * [Irish Banks EBA Pillar 3 Reporting](https://github.com/FD-SustainableFinance/Irish-Banks-EBA-Pillar-3-Reporting/tree/main)
 
-## Use Cases - End-to-End Solutions - _Add to [4] Taxonomy Use Cases?_
+## Use Cases - End-to-End Solutions
 [insert project]
 
 ## Regulatory Taxonomy Samples e.g. EBA Pillar 3, ESG Risk Disclosure CRR 144a, Source Source: Corlytics Date Stamp: 01-Aug-2022
@@ -59,22 +65,6 @@ See below for these mappings, which have been modelled using the data lineage to
 See below for these mappings, which have been modelled using the data lineage tool provided by OS-SFT Componentry Partner, [Solidatus]
 
 * [ISSB v TCFD v EBA Pillar 3](https://github.com/FD-SustainableFinance/RESEARCH---STRING-MAPPING-ISSB-v-EBA-PILLAR-3-v-TCFD/new/main)
-
-## Use Cases - Point Solutions - _Add to [4] Taxonomy Use Cases?_
-
-#### Irish Banks - EBA Pillar 3 Reporting
-
-First Derivative, in partnership with Corlytics and Solidatus, has been working with a partner Irish bank to prepare for forthcoming reporting requirements under the EBA's Pillar 3 ESG Disclosure regime. 
-
-##### Our Solution:
-- FD have designed a solution that pulls in internal and external counterparty data directly from the sources into a model using Corlytics
-- Uses a Solidatus model to show how data flows from source and maps to Template 1 of EBA Pillar III, and to begin building out the data profile of each counterparty
-- The data is then grouped together by NACE code and totalled, then mapped to the relevant fields in the EBA Pillar III templates
-- The model will have built in proxies to fill data gaps, reports on completeness and will enable the user to download reports
-- This solution can be used beyond EBA Pillar III and lays the foundation for future regulatory reporting
-- The aim is to enhance the model by enabling automated updates, including via connectors which will feed data scraped from external sources into the model
-
-## Use Cases - End-to-End Solutions - _Add to [4] Taxonomy Use Cases?_
 
 ## Regulatory Taxonomy Samples e.g. EBA Pillar 3, ESG Risk Disclosure CRR 144a, Source Source: Corlytics Date Stamp: 01-Aug-2022
 
