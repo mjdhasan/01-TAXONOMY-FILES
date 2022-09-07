@@ -51,33 +51,20 @@ We see a future where end-to-end, multi-nodal taxonomy mapping becomes central t
 [insert project]
 ## Other
 
-# Library Examples
-## Single Taxonomies 
-### Taxonomy
-
-Create separate repository pages for each of the below:
-
-#### EBA Pillar 3 ESG Disclosures 
-
-![image](https://user-images.githubusercontent.com/112077283/188676275-2e5ba8c2-d744-4aec-b917-d6531e5e91f7.png)
-
-#### Task Force on Climate-related Financial Disclosures (TCFD)
-
-![image](https://user-images.githubusercontent.com/112077283/188676436-662da495-6287-4aae-b555-29608110a0e5.png)
-
-#### International Sustainability Standards Board (ISSB)
-![image](https://user-images.githubusercontent.com/112077283/188676553-f56015e9-111c-4690-90e5-01bfecd53d63.png)
-
+# Library Mappings Examples
 
 ## Pairwise Taxonomies
 See below for these mappings, which have been modelled using the data lineage tool provided by OS-SFT Componentry Partner, [Solidatus](https://trial.solidatus.com/viewer/62cc23ee183906050cfcbeae):
 * [ISSB v TCFD](https://github.com/FD-SustainableFinance/ISSB-v-TCFD/tree/main)
+* 
 * [ISSB v EBA Pillar 3](https://github.com/FD-SustainableFinance/ISSB-v-EBA-Pillar-3/tree/main)
+* 
 * [TCFD v EBA Pillar 3] - In Progress
 
 ## String Taxonomies
-See below for these mappings, which have been modelled using the data lineage tool provided by OS-SFT Componentry Partner, [Solidatus](https://trial.solidatus.com/viewer/62cc23ee183906050cfcbeae):
-![image](https://user-images.githubusercontent.com/112077283/188678070-3c0f3c60-8e89-40e6-9f69-c6a8a973d3b6.png)
+See below for these mappings, which have been modelled using the data lineage tool provided by OS-SFT Componentry Partner, [Solidatus]
+
+* [ISSB v TCFD v EBA Pillar 3](https://github.com/FD-SustainableFinance/RESEARCH---STRING-MAPPING-ISSB-v-EBA-PILLAR-3-v-TCFD/new/main)
 
 ## Use Cases - Point Solutions
 
