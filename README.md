@@ -41,10 +41,10 @@ Mapping exercises have been completed to identify crossovers and differences bet
 - This resulted in the identification of potential synergies with current reporting activities and data requirements, including how these might inform asset re-pricing and incorporation of climate risk metrics into existing risk practices. This is of particular interest to the evolving sustainable finance solutions being developed between [First Derivative](https://firstderivative.com/sustainable-finance/), [Corlytics](https://www.corlytics.com/), [Solidatus](https://www.solidatus.com/) and [Sustainable Finance Ireland](https://www.sustainablefinance.ie/) with funding from [Skillnet Ireland](https://www.skillnetireland.ie/).
 We see a future where end-to-end, multi-nodal taxonomy mapping becomes central to all operating models for data, risk, controls and reporting.
 
-## Use Cases - Point Solutions
+## Use Cases - Point Solutions - _Add to [4] Taxonomy Use Cases?_
 * [Irish Banks EBA Pillar 3 Reporting](https://github.com/FD-SustainableFinance/Irish-Banks-EBA-Pillar-3-Reporting/tree/main)
 
-## Use Cases - End-to-End Solutions
+## Use Cases - End-to-End Solutions - _Add to [4] Taxonomy Use Cases?_
 [insert project]
 
 ## Regulatory Taxonomy Samples e.g. EBA Pillar 3, ESG Risk Disclosure CRR 144a, Source Source: Corlytics Date Stamp: 01-Aug-2022
@@ -66,7 +66,7 @@ See below for these mappings, which have been modelled using the data lineage to
 
 * [ISSB v TCFD v EBA Pillar 3](https://github.com/FD-SustainableFinance/RESEARCH---STRING-MAPPING-ISSB-v-EBA-PILLAR-3-v-TCFD/new/main)
 
-## Use Cases - Point Solutions
+## Use Cases - Point Solutions - _Add to [4] Taxonomy Use Cases?_
 
 #### Irish Banks - EBA Pillar 3 Reporting
 
@@ -80,7 +80,7 @@ First Derivative, in partnership with Corlytics and Solidatus, has been working 
 - This solution can be used beyond EBA Pillar III and lays the foundation for future regulatory reporting
 - The aim is to enhance the model by enabling automated updates, including via connectors which will feed data scraped from external sources into the model
 
-## Use Cases - End-to-End Solutions
+## Use Cases - End-to-End Solutions - _Add to [4] Taxonomy Use Cases?_
 
 ## Regulatory Taxonomy Samples e.g. EBA Pillar 3, ESG Risk Disclosure CRR 144a, Source Source: Corlytics Date Stamp: 01-Aug-2022
 
