@@ -1,11 +1,6 @@
 **PAGE STATUS**
 ```diff
 - In Development
-# Johnny M and John K discussed creating libary using:
-single taxonomies (plus their versions)
-then pairwise taxonomy mappings (e.g. TCFD-ISSB)
-and then some examples of a string of taxonomy mappings (e.g. TCFD-EBA Pillar 3-ISSB)
-so that we build on the foudnations of a library of single taxonomies.
 ```
 
 **PAGE KEY**
@@ -17,8 +12,7 @@ so that we build on the foudnations of a library of single taxonomies.
 ```
 
 # [1] TAXONOMY FILES
-
-[Note - The Library is a collation of all taxonomy projects]
+Library of Taxonomy Files - in human and machine readable format
 
 ## Taxonomy Library
 OS-SFT Service and Delivery Partner First Derivative has undertaken initial research and taxonomy analysis in relation to the following ESG disclosure regimes. Note that several of these regimes are at the proposal stage only and have not yet been finalised by the relevant bodies:
