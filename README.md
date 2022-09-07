@@ -40,7 +40,7 @@ OS-SFT Service and Delivery Partner First Derivative has undertaken initial rese
 |EBA Pillar 3|Regulation|Final Draft Published|[Final draft implementing technical standards on prudential disclosures on ESG risks in accordance with Article 449a CRR](https://www.eba.europa.eu/sites/default/documents/files/document_library/Publications/Draft%20Technical%20Standards/2022/1026171/EBA%20draft%20ITS%20on%20Pillar%203%20disclosures%20on%20ESG%20risks.pdf)|24 January 2022|First Derivative - Research|
 |TCFD|Framework|Published|[Implementing the Recommendations of the Task Force on Climate-related Financial Disclosures](https://assets.bbhub.io/company/sites/60/2021/07/2021-TCFD-Implementing_Guidance.pdf|October 2021|First Derivative - Research|
 |SASB|Standard|Published|[SASB Standards](https://www.sasb.org/standards/download/?lang=en-us)|Up to December 2021 (varies by industry)|First Derivative - Research|
-|SEC|Proposed Rule|Preliminary Feedback|[The Enhancement and Standardization of Climate-Related Disclosures for Investors](https://www.sec.gov/rules/proposed/2022/33-11042.pdf)
+|SEC|Proposed Rule|Preliminary Feedback|[The Enhancement and Standardization of Climate-Related Disclosures for Investors](https://www.sec.gov/rules/proposed/2022/33-11042.pdf)|21 March 2022|First Derivative - Research|
 |EFRAG - RSRS General Principles|
 |EFRAG - ESRS - Climate Change|
 
