@@ -32,6 +32,17 @@ OS-SFT Service and Delivery Partner First Derivative has undertaken initial rese
 * [EFRAG- RSRS General Principles](https://www.efrag.org/Assets/Download?assetUrl=%2Fsites%2Fwebpublishing%2FSiteAssets%2FED_ESRS_1.pdf)
 * [EFRAG - ESRS - Climate Change](https://www.efrag.org/Assets/Download?assetUrl=%2Fsites%2Fwebpublishing%2FSiteAssets%2FED_ESRS_E1.pdf)
 
+|Taxonomy|Type|Stage|Documentation|Date of Latest Update|Taxonomy Source|
+|--------|----|-----|-------------|---------------------|------|
+|ISSB Exposure Draft S1|Standard|Preliminary Feedback|[Exposure Draft on IFRS S1 General Requirements for Disclosure of Sustainability-related Financial Information](https://www.ifrs.org/content/dam/ifrs/project/general-sustainability-related-disclosures/exposure-draft-ifrs-s1-general-requirements-for-disclosure-of-sustainability-related-financial-information.pdf)|31 March 2022|First Derivative - Research|
+|ISSB Exposure Draft S2|Standard|Preliminary Feedback|[Exposure Draft IFRS S2 Climate-related Disclosures](https://www.ifrs.org/content/dam/ifrs/project/climate-related-disclosures/issb-exposure-draft-2022-2-climate-related-disclosures.pdf)|31 March 2022|First Derivative - Research|
+|ISSB Exposure Draft S2 Appendix B|Standard|Preliminary Feedback|[IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements](https://www.ifrs.org/content/dam/ifrs/project/climate-related-disclosures/issb-exposure-draft-2022-2-appendix-b.pdf)|31 March 2022|First Derivative - Research|
+|TCFD|Framework|Published|
+|SASB|Standard|Published|
+SEC|Regulation|Preliminary Feedback|
+EFRAG - RSRS General Principles|||
+EFRAG - ESRS - Climate Change|||
+
 [Suggest formatting the above into a table to form the library. Columns could include link to taxonomy page within GitHub, regime website/document link, stage (proposal, published etc.), latest update date, provided by (i.e. FD research for now), etc...]
 
 ## Taxonomy Mapping
