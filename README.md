@@ -1,14 +1,6 @@
 **PAGE STATUS**
 ```diff
-- In Development
-```
-
-**PAGE KEY**
-```diff
-+ text in green = Ready to Publish
-! text in orange = Ready for Peer Review
-- text in red = In Development
-# text in grey = notes
+- In Development - NEEDS CLEAN-UP (JM)
 ```
 
 # [1] TAXONOMY FILES
