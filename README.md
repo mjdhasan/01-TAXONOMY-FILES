@@ -43,21 +43,21 @@ We see a future where end-to-end, multi-nodal taxonomy mapping becomes central t
 
 Please see Batch 2 and 3 in the [Taxonomy Mappings Library](https://github.com/orgs/FD-SustainableFinance/projects/2) for details of the completed mappings, summarised below:
 
-|Taxonomy Mapping|Model Date|Model Source|
-|----------------|----------|------------|
-|[TCFD - ISSB](https://github.com/FD-SustainableFinance/RESEARCH---PAIRWISE-TAXONOMY-MAPPING---TCFD-V-ISSB)|20220916|First Derivative Research|
-|[ISSB - EBA P3](https://github.com/FD-SustainableFinance/RESEARCH---PAIRWISE-TAXONOMY-MAPPING---ISSB-v-EBA-Pillar-3)|20220916|First Derivative Research|
-|[TCFD - EBA P3](https://github.com/FD-SustainableFinance/RESEARCH---PAIRWISE-TAXONOMY-MAPPING---TCFD-v-EBA-Pillar-3)|20220919|First Derivative Research|
-|[ISSB - SEC](https://github.com/FD-SustainableFinance/RESEARCH---PAIRWISE-TAXONOMY-MAPPING---ISSB-v-SEC)|20220919|First Derivative Research|
-|[ISSB - SASB()]||First Derivative Research|
-|[ISSB - EFRAG ESRS 1]()||First Derivative Research|
-|[GRI - SASB (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-SASB)|20220916|Corlytics|
-|[GRI - TCFD (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-TCFD)|20220916|Corlytics|
-|[GRI - CDSB (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-CDSB)|20220916|Corlytics|
-|[GRI - PCAF (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-PCAF)|20220916|Corlytics|
-|[GRI - GHG (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-GHG-PROTOCOL)|20220916|Corlytics|
-|[TCFD - SASB](https://github.com/FD-SustainableFinance/RESEARCH-TAXONOMY-MAPPING-TCFD-SASB)|20220916|First Derivative Research|
-|[TCFD - CDSB](https://github.com/FD-SustainableFinance/RESEARCH-MAPPING-TCFD-v-CDSB-WIP)|20220916|First Derivative Research|
-|[TCFD - CDP](https://github.com/FD-SustainableFinance/RESEARCH-TAXONOMY-MAPPING---TCFD---CDP)|20220916|First Derivative Research|
-|[BCBS 239 - BCBS Climate Risk](https://github.com/FD-SustainableFinance/RESEARCH---TAXONOMY-MAPPING---BCBS-239---BCBS-Climate-Risk)|20221006|First Derivative Research|
-|[TCFD - ISSB - EBA Pillar 3](https://github.com/FD-SustainableFinance/RESEARCH---STRING-MAPPING-ISSB-v-EBA-PILLAR-3-v-TCFD)|20220919|First Derivative Research|
+|Taxonomy Mapping|Mapping Type|Model Date|Model Source|
+|----------------|------------|----------|------------|
+|[TCFD - ISSB](https://github.com/FD-SustainableFinance/RESEARCH---PAIRWISE-TAXONOMY-MAPPING---TCFD-V-ISSB)|Pairwise|20220916|First Derivative Research|
+|[ISSB - EBA P3](https://github.com/FD-SustainableFinance/RESEARCH---PAIRWISE-TAXONOMY-MAPPING---ISSB-v-EBA-Pillar-3)|Pairwise|20220916|First Derivative Research|
+|[TCFD - EBA P3](https://github.com/FD-SustainableFinance/RESEARCH---PAIRWISE-TAXONOMY-MAPPING---TCFD-v-EBA-Pillar-3)|Pairwise|20220919|First Derivative Research|
+|[ISSB - SEC](https://github.com/FD-SustainableFinance/RESEARCH---PAIRWISE-TAXONOMY-MAPPING---ISSB-v-SEC)|Pairwise|20220919|First Derivative Research|
+|[ISSB - SASB()]|Pairwise||First Derivative Research|
+|[ISSB - EFRAG ESRS 1]()|Pairwise||First Derivative Research|
+|[GRI - SASB (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-SASB)|Pairwise|20220916|Corlytics|
+|[GRI - TCFD (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-TCFD)|Pairwise|20220916|Corlytics|
+|[GRI - CDSB (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-CDSB)|Pairwise|20220916|Corlytics|
+|[GRI - PCAF (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-PCAF)|Pairwise|20220916|Corlytics|
+|[GRI - GHG (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-GHG-PROTOCOL)|Pairwise|20220916|Corlytics|
+|[TCFD - SASB](https://github.com/FD-SustainableFinance/RESEARCH-TAXONOMY-MAPPING-TCFD-SASB)|Pairwise|20220916|First Derivative Research|
+|[TCFD - CDSB](https://github.com/FD-SustainableFinance/RESEARCH-MAPPING-TCFD-v-CDSB-WIP)|Pairwise|20220916|First Derivative Research|
+|[TCFD - CDP](https://github.com/FD-SustainableFinance/RESEARCH-TAXONOMY-MAPPING---TCFD---CDP)|Pairwise|20220916|First Derivative Research|
+|[BCBS 239 - BCBS Climate Risk](https://github.com/FD-SustainableFinance/RESEARCH---TAXONOMY-MAPPING---BCBS-239---BCBS-Climate-Risk)|Pairwise|20221006|First Derivative Research|
+|[TCFD - ISSB - EBA Pillar 3](https://github.com/FD-SustainableFinance/RESEARCH---STRING-MAPPING-ISSB-v-EBA-PILLAR-3-v-TCFD)|String|20220919|First Derivative Research|
