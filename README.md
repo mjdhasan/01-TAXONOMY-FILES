@@ -60,3 +60,4 @@ Please see Batch 2 and 3 in the [Taxonomy Mappings Library](https://github.com/o
 |[TCFD - CDSB](https://github.com/FD-SustainableFinance/RESEARCH-MAPPING-TCFD-v-CDSB-WIP)|20220916|First Derivative Research|
 |[TCFD - CDP](https://github.com/FD-SustainableFinance/RESEARCH-TAXONOMY-MAPPING---TCFD---CDP)|20220916|First Derivative Research|
 |[BCBS 239 - BCBS Climate Risk](https://github.com/FD-SustainableFinance/RESEARCH---TAXONOMY-MAPPING---BCBS-239---BCBS-Climate-Risk)|20221006|First Derivative Research|
+|[TCFD - ISSB - EBA Pillar 3](https://github.com/FD-SustainableFinance/RESEARCH---STRING-MAPPING-ISSB-v-EBA-PILLAR-3-v-TCFD)|20220919|First Derivative Research|
