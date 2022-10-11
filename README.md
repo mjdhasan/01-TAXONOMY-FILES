@@ -35,6 +35,8 @@ The first set of taxonomies, relate to individual ESG disclosure regimes and reg
 |[BCBS 239](https://github.com/FD-SustainableFinance/RESEARCH---BCBS-239---Risk-Data-Aggregation)|Principles|Published|9 January 2013|First Derivative Research|
 |[BCBS 530 - Climate Risk](https://github.com/FD-SustainableFinance/RESEARCH---BCBS-CLIMATE-RISK)|Principles|Published|15 June 2022|First Derivative Research|
 
+Several industry classification systems have also been taxonomised for use in conjunction with the above framework taxonomies. These are available in Batch 0 of the [Taxonomy & Mappings Library](https://github.com/orgs/FD-SustainableFinance/projects/2).
+
 ## Taxonomy Mapping
 In addition to the individual taxonomies, mapping exercises have been completed to identify crossovers and differences between the disclosure and/or regulatory requirements of the above regimes.
 - Comparisons were made across disclosure and regulatory requirements spanning governance, strategy, risk management, and metrics/targets including specific GHG emissions and exposure metrics and methodologies.
