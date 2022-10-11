@@ -53,13 +53,13 @@ Please see Batch 2 and 3 in the [Taxonomy Mappings Library](https://github.com/o
 |[ISSB - SEC](https://github.com/FD-SustainableFinance/RESEARCH---PAIRWISE-TAXONOMY-MAPPING---ISSB-v-SEC)|Pairwise|20220919|First Derivative Research|
 |[ISSB - SASB](https://github.com/FD-SustainableFinance/RESEARCH-MAPPING-ISSB-S2-v-IFRS-SASB)|Pairwise|20220928|First Derivative Research|
 |[ISSB - EFRAG ESRS 1](https://github.com/FD-SustainableFinance/RESEARCH-MAPPING-ISSB-S2-v-EFRAG)|Pairwise|20221006|First Derivative Research|
-|[GRI - SASB (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-SASB)|Pairwise|20220916|Corlytics|
-|[GRI - TCFD (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-TCFD)|Pairwise|20220916|Corlytics|
-|[GRI - CDSB (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-CDSB)|Pairwise|20220916|Corlytics|
-|[GRI - PCAF (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-PCAF)|Pairwise|20220916|Corlytics|
-|[GRI - GHG (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-GHG-PROTOCOL)|Pairwise|20220916|Corlytics|
-|[TCFD - SASB](https://github.com/FD-SustainableFinance/RESEARCH-TAXONOMY-MAPPING-TCFD-SASB)|Pairwise|20220916|First Derivative Research|
-|[TCFD - CDSB](https://github.com/FD-SustainableFinance/RESEARCH-MAPPING-TCFD-v-CDSB-WIP)|Pairwise|20220916|First Derivative Research|
-|[TCFD - CDP](https://github.com/FD-SustainableFinance/RESEARCH-TAXONOMY-MAPPING---TCFD---CDP)|Pairwise|20220916|First Derivative Research|
+|[GRI - SASB (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-SASB)|Pairwise|20221004|Corlytics|
+|[GRI - TCFD (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-TCFD)|Pairwise|20221004|Corlytics|
+|[GRI - CDSB (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-CDSB)|Pairwise|20221004|Corlytics|
+|[GRI - PCAF (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-PCAF)|Pairwise|20221004|Corlytics|
+|[GRI - GHG (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-GHG-PROTOCOL)|Pairwise|20221004|Corlytics|
+|[TCFD - SASB](https://github.com/FD-SustainableFinance/RESEARCH-TAXONOMY-MAPPING-TCFD-SASB)|Pairwise|20221004|First Derivative Research|
+|[TCFD - CDSB](https://github.com/FD-SustainableFinance/RESEARCH-MAPPING-TCFD-v-CDSB-WIP)|Pairwise|20221004|First Derivative Research|
+|[TCFD - CDP](https://github.com/FD-SustainableFinance/RESEARCH-TAXONOMY-MAPPING---TCFD---CDP)|Pairwise|20221004|First Derivative Research|
 |[BCBS 239 - BCBS Climate Risk](https://github.com/FD-SustainableFinance/RESEARCH---TAXONOMY-MAPPING---BCBS-239---BCBS-Climate-Risk)|Pairwise|20221006|First Derivative Research|
 |[TCFD - ISSB - EBA Pillar 3](https://github.com/FD-SustainableFinance/RESEARCH---STRING-MAPPING-ISSB-v-EBA-PILLAR-3-v-TCFD)|String|20220919|First Derivative Research|
