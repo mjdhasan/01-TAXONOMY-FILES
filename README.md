@@ -17,7 +17,7 @@ OS-SFT Service and Delivery Partner First Derivative has undertaken initial rese
 |--------|----|-----|-------------|---------------------|---------------------|
 |[ISSB Exposure Draft S1](https://github.com/FD-SustainableFinance/RESEARCH---INTERNATIONAL-SUSTAINABILITY-STANDARDS-BOARD)|Standard|Preliminary Feedback|31 March 2022|First Derivative - Research|
 |[ISSB Exposure Draft S2](https://github.com/FD-SustainableFinance/RESEARCH---INTERNATIONAL-SUSTAINABILITY-STANDARDS-BOARD)|Standard|Preliminary Feedback|31 March 2022|First Derivative - Research|
-|[ISSB Exposure Draft S2 Appendix B](https://github.com/FD-SustainableFinance/RESEARCH---INTERNATIONAL-SUSTAINABILITY-STANDARDS-BOARD)|Standard|Preliminary Feedback||31 March 2022|First Derivative - Research|
+|[ISSB Exposure Draft S2 Appendix B](https://github.com/FD-SustainableFinance/RESEARCH---INTERNATIONAL-SUSTAINABILITY-STANDARDS-BOARD)|Standard|Preliminary Feedback|31 March 2022|First Derivative - Research|
 |[EBA Pillar 3](https://github.com/FD-SustainableFinance/RESEARCH---EBA-PILLAR-3-DISCLOSURES)|Regulation|Final Draft Published|24 January 2022|First Derivative - Research|
 |[TCFD](https://github.com/FD-SustainableFinance/RESEARCH---TASK-FORCE-ON-CLIMATE-RELATED-FINANCIAL-DISCLOSURES)|Framework|Published|October 2021|First Derivative - Research|
 |[SASB](https://github.com/FD-SustainableFinance/RESEARCH---SUSTAINABILITY-ACCOUNTING-STANDARDS-BOARD/tree/main)|Standard|Published|Up to December 2021 (varies by industry)|First Derivative - Research|
