@@ -51,12 +51,11 @@ Please see Batch 2 and 3 in the [Taxonomy Mappings Library](https://github.com/o
 |[ISSB - SEC](https://github.com/FD-SustainableFinance/RESEARCH---PAIRWISE-TAXONOMY-MAPPING---ISSB-v-SEC)|20220919|First Derivative Research|
 |[ISSB - SASB()]||First Derivative Research|
 |[ISSB - EFRAG ESRS 1]()||First Derivative Research|
-|[GRI - SASB (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-SASB)|20220916|First Derivative Research|
-|[GRI - TCFD (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-TCFD)|20220916|First Derivative Research|
-|[GRI - CDSB (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-CDSB)|20220916|First Derivative Research|
-|[GRI - PCAF (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-PCAF)|20220916|First Derivative Research|
-|[GRI - GHG (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-GHG-PROTOCOL)|20220916|First Derivative Research|
-|[GRI - NFRD (Partial)]()|20220916|First Derivative Research|
+|[GRI - SASB (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-SASB)|20220916|Corlytics|
+|[GRI - TCFD (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-TCFD)|20220916|Corlytics|
+|[GRI - CDSB (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-CDSB)|20220916|Corlytics|
+|[GRI - PCAF (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-PCAF)|20220916|Corlytics|
+|[GRI - GHG (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-GHG-PROTOCOL)|20220916|Corlytics|
 |[TCFD - SASB](https://github.com/FD-SustainableFinance/RESEARCH-TAXONOMY-MAPPING-TCFD-SASB)|20220916|First Derivative Research|
 |[TCFD - CDSB](https://github.com/FD-SustainableFinance/RESEARCH-MAPPING-TCFD-v-CDSB-WIP)|20220916|First Derivative Research|
 |[TCFD - CDP](https://github.com/FD-SustainableFinance/RESEARCH-TAXONOMY-MAPPING---TCFD---CDP)|20220916|First Derivative Research|
