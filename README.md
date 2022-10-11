@@ -23,12 +23,12 @@ OS-SFT Service and Delivery Partner First Derivative has undertaken initial rese
 |[SASB](https://github.com/FD-SustainableFinance/RESEARCH---SUSTAINABILITY-ACCOUNTING-STANDARDS-BOARD/tree/main)|Standard|Published|Up to December 2021 (varies by industry)|First Derivative - Research|
 |[SEC](https://github.com/FD-SustainableFinance/RESEARCH---SECURITIES-EXCHANGE-COMMISSION)|Proposed Rule|Preliminary Feedback|21 March 2022|First Derivative - Research|
 |[EFRAG - ESRS 2 - General, strategy, governance and materiality assessment](https://github.com/FD-SustainableFinance/RESEARCH---EUROPEAN-FINANCIAL-REPORTING-ADVISORY-GROUP)|Standard|Public Consultation|29 April 2022|First Derivative - Research|
-|[GRI](https://github.com/FD-SustainableFinance/RESEARCH-UN-GLOBAL-COMPACT)|Standard|Public Consultation|Public Consultation|29 April 2022|First Derivative - Research|
-|[CDP](https://github.com/FD-SustainableFinance/RESEARCH-CDP)|Standard|Public Consultation|Public Consultation|29 April 2022|First Derivative - Research|
-|[GHG Protocol](https://github.com/FD-SustainableFinance/RESEARCH-GHGP)|Standard|Public Consultation|[GHG Protocol Standards](https://ghgprotocol.org/sites/default/files/standards/ghg-protocol-revised.pdf)|Public Consultation|29 April 2022|First Derivative - Research|
-|[CDSB](https://github.com/FD-SustainableFinance/RESEARCH-CDSB)|Framework|Public Consultation|[CDSB Framework](https://www.cdsb.net/sites/default/files/cdsb_framework_2.1.pdf)|Public Consultation|First Derivative - Research|
-|[EU Taxonomy](https://github.com/FD-SustainableFinance/RESEARCH-EU-TAXONOMY)|Framework|Public Consultation|[EU Taxonomy](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R2139&from=EN)|Public Consultation |First Derivative - Research|
-|[PCAF](https://github.com/FD-SustainableFinance/RESEARCH-PCAF)|Framework|Public Consultation|[PCAF](https://carbonaccountingfinancials.com/files/downloads/PCAF-Global-GHG-Standard.pdf)|Public Consultation |First Derivative - Research|
+|[GRI](https://github.com/FD-SustainableFinance/RESEARCH---GLOBAL-REPORTING-INITIATIVE)|Standard|Public Consultation|29 April 2022|First Derivative - Research|
+|[CDP](https://github.com/FD-SustainableFinance/RESEARCH-CDP)|Standard|Public Consultation|Public Consultation|31 March 2022|First Derivative - Research|
+|[GHG Protocol](https://github.com/FD-SustainableFinance/RESEARCH-GHGP)|Standard|Public Consultation|February 2017|First Derivative - Research|
+|[CDSB](https://github.com/FD-SustainableFinance/RESEARCH-CDSB)|Framework|Public Consultation|Date|First Derivative - Research|
+|[EU Taxonomy](https://github.com/FD-SustainableFinance/RESEARCH-EU-TAXONOMY)|Framework|Public Consultation|4 June 2021|First Derivative - Research|
+|[PCAF](https://github.com/FD-SustainableFinance/RESEARCH-PCAF)|Framework|Public Consultation|18 November 2020|First Derivative - Research|
 |[UN Global Compact](https://github.com/FD-SustainableFinance/RESEARCH-UN-GC)|Framework|Public Consultation|[UN Global Compact](https://www.unglobalcompact.org/what-is-gc/mission/principles)|Public Consultation |First Derivative - Research|
 |[UN SGDs](https://github.com/FD-SustainableFinance/RESEARCH-UN-SDG)|Framework|Public Consultation|[PCAF](https://unstats.un.org/sdgs/report/2021/The-Sustainable-Development-Goals-Report-2021.pdf)|Public Consultation |First Derivative - Research|
 
