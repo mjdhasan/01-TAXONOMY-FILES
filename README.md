@@ -8,10 +8,10 @@
 
 # [1] TAXONOMY FILES
 
-[Note - The Library is a collation of all taxonomy projects]
+The initial focus of the OS-SFT project is the creation of a library of taxonomy files, for a variety of sustainability disclosure frameworks and other initiatives, in human and machine readable format. The below tables offer a summary of the taxonomies reviewed, which can also be viewed in the Project: [Taxonomy & Mappings Library](https://github.com/orgs/FD-SustainableFinance/projects/2).
 
 ## Single Taxonomies
-OS-SFT Service and Delivery Partner First Derivative has undertaken initial research and taxonomy analysis in relation to the following ESG disclosure regimes and regulations. Note that several of these regimes are at the proposal stage only and have not yet been finalised by the relevant bodies.
+The first set of taxonomies, relate to individual ESG disclosure regimes and regulations. Note that several of these frameworks are at the proposal stage only and have not yet been finalised by the relevant bodies. Details can also be viewed in Batch 1 of the [Taxonomy & Mappings Library](https://github.com/orgs/FD-SustainableFinance/projects/2).
 
 |Taxonomy|Type|Stage|Date of Latest Update|Taxonomy Model Source|
 |--------|----|-----|---------------------|---------------------|
@@ -36,13 +36,28 @@ OS-SFT Service and Delivery Partner First Derivative has undertaken initial rese
 |[BCBS 530 - Climate Risk](https://github.com/FD-SustainableFinance/RESEARCH---BCBS-CLIMATE-RISK)|Principles|Published|15 June 2022|First Derivative Research|
 
 ## Taxonomy Mapping
-Mapping exercises have been completed to identify crossovers and differences between ISSB requirements and those of the above reporting regimes. Please see Batch 2 and 3 in the [Taxonomy Mappings Library](https://github.com/orgs/FD-SustainableFinance/projects/2) for details of the completed mappings: 
-- Comparisons were made across disclosure requirements spanning governance, strategy, risk management, and metrics/targets including specific GHG emissions and exposure metrics and methodologies.
+In addition to the individual taxonomies, mapping exercises have been completed to identify crossovers and differences between the disclosure and/or regulatory requirements of the above regimes.
+- Comparisons were made across disclosure and regulatory requirements spanning governance, strategy, risk management, and metrics/targets including specific GHG emissions and exposure metrics and methodologies.
 - This resulted in the identification of potential synergies with current reporting activities and data requirements, including how these might inform asset re-pricing and incorporation of climate risk metrics into existing risk practices. This is of particular interest to the evolving sustainable finance solutions being developed between [First Derivative](https://firstderivative.com/sustainable-finance/), [Corlytics](https://www.corlytics.com/), [Solidatus](https://www.solidatus.com/) and [Sustainable Finance Ireland](https://www.sustainablefinance.ie/) with funding from [Skillnet Ireland](https://www.skillnetireland.ie/).
 We see a future where end-to-end, multi-nodal taxonomy mapping becomes central to all operating models for data, risk, controls and reporting.
 
-## Use Cases - Point Solutions
-* [Irish Banks EBA Pillar 3 Reporting](https://github.com/FD-SustainableFinance/Irish-Banks-EBA-Pillar-3-Reporting/tree/main)
+Please see Batch 2 and 3 in the [Taxonomy Mappings Library](https://github.com/orgs/FD-SustainableFinance/projects/2) for details of the completed mappings, summarised below:
 
-## Use Cases - End-to-End Solutions
-[insert project]
+|Taxonomy Mapping|Model Date|Model Source|
+|----------------|----------|------------|
+|[TCFD - ISSB](https://github.com/FD-SustainableFinance/RESEARCH---PAIRWISE-TAXONOMY-MAPPING---TCFD-V-ISSB)|20220916|First Derivative Research|
+|[ISSB - EBA P3](https://github.com/FD-SustainableFinance/RESEARCH---PAIRWISE-TAXONOMY-MAPPING---ISSB-v-EBA-Pillar-3)|20220916|First Derivative Research|
+|[TCFD - EBA P3](https://github.com/FD-SustainableFinance/RESEARCH---PAIRWISE-TAXONOMY-MAPPING---TCFD-v-EBA-Pillar-3)|20220919|First Derivative Research|
+|[ISSB - SEC](https://github.com/FD-SustainableFinance/RESEARCH---PAIRWISE-TAXONOMY-MAPPING---ISSB-v-SEC)|20220919|First Derivative Research|
+|[ISSB - SASB()]||First Derivative Research|
+|[ISSB - EFRAG ESRS 1]()||First Derivative Research|
+|[GRI - SASB (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-SASB)|20220916|First Derivative Research|
+|[GRI - TCFD (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-TCFD)|20220916|First Derivative Research|
+|[GRI - CDSB (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-CDSB)|20220916|First Derivative Research|
+|[GRI - PCAF (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-PCAF)|20220916|First Derivative Research|
+|[GRI - GHG (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-GHG-PROTOCOL)|20220916|First Derivative Research|
+|[GRI - NFRD (Partial)]()|20220916|First Derivative Research|
+|[TCFD - SASB](https://github.com/FD-SustainableFinance/RESEARCH-TAXONOMY-MAPPING-TCFD-SASB)|20220916|First Derivative Research|
+|[TCFD - CDSB](https://github.com/FD-SustainableFinance/RESEARCH-MAPPING-TCFD-v-CDSB-WIP)|20220916|First Derivative Research|
+|[TCFD - CDP](https://github.com/FD-SustainableFinance/RESEARCH-TAXONOMY-MAPPING---TCFD---CDP)|20220916|First Derivative Research|
+|[BCBS 239 - BCBS Climate Risk](https://github.com/FD-SustainableFinance/RESEARCH---TAXONOMY-MAPPING---BCBS-239---BCBS-Climate-Risk)|20221006|First Derivative Research|
