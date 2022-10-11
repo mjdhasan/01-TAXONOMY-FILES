@@ -49,8 +49,8 @@ Please see Batch 2 and 3 in the [Taxonomy Mappings Library](https://github.com/o
 |[ISSB - EBA P3](https://github.com/FD-SustainableFinance/RESEARCH---PAIRWISE-TAXONOMY-MAPPING---ISSB-v-EBA-Pillar-3)|Pairwise|20220916|First Derivative Research|
 |[TCFD - EBA P3](https://github.com/FD-SustainableFinance/RESEARCH---PAIRWISE-TAXONOMY-MAPPING---TCFD-v-EBA-Pillar-3)|Pairwise|20220919|First Derivative Research|
 |[ISSB - SEC](https://github.com/FD-SustainableFinance/RESEARCH---PAIRWISE-TAXONOMY-MAPPING---ISSB-v-SEC)|Pairwise|20220919|First Derivative Research|
-|[ISSB - SASB()]|Pairwise||First Derivative Research|
-|[ISSB - EFRAG ESRS 1]()|Pairwise||First Derivative Research|
+|[ISSB - SASB(https://github.com/FD-SustainableFinance/RESEARCH-MAPPING-ISSB-S2-v-IFRS-SASB/blob/main/README.md)]|Pairwise|20220928|First Derivative Research|
+|[ISSB - EFRAG ESRS 1](https://github.com/FD-SustainableFinance/RESEARCH-MAPPING-ISSB-S2-v-EFRAG)|Pairwise|20221006|First Derivative Research|
 |[GRI - SASB (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-SASB)|Pairwise|20220916|Corlytics|
 |[GRI - TCFD (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-TCFD)|Pairwise|20220916|Corlytics|
 |[GRI - CDSB (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-CDSB)|Pairwise|20220916|Corlytics|
