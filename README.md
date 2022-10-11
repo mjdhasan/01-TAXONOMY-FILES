@@ -51,7 +51,7 @@ Please see Batch 2 and 3 in the [Taxonomy Mappings Library](https://github.com/o
 |Taxonomy Mapping|Mapping Type|Model Date|Model Source|
 |----------------|------------|----------|------------|
 |[BCBS 239 - BCBS Climate Risk](https://github.com/FD-SustainableFinance/RESEARCH---TAXONOMY-MAPPING---BCBS-239---BCBS-Climate-Risk)|Pairwise|20221006|First Derivative Research|
-|[GRI - CDSB (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-CDSB)|Pairwise|20221004|CorFirst Derivative Researchlytics|
+|[GRI - CDSB (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-CDSB)|Pairwise|20221004|First Derivative Research|
 |[GRI - GHG (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-GHG-PROTOCOL)|Pairwise|20221004|First Derivative Research|
 |[GRI - PCAF (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-PCAF)|Pairwise|20221004|First Derivative Research|
 |[GRI - SASB (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-SASB)|Pairwise|20221004|First Derivative Research|
