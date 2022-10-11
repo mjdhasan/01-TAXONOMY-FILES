@@ -24,13 +24,13 @@ OS-SFT Service and Delivery Partner First Derivative has undertaken initial rese
 |[SEC](https://github.com/FD-SustainableFinance/RESEARCH---SECURITIES-EXCHANGE-COMMISSION)|Proposed Rule|Preliminary Feedback|21 March 2022|First Derivative Research|
 |[EFRAG - ESRS 2 - General, strategy, governance and materiality assessment](https://github.com/FD-SustainableFinance/RESEARCH---EUROPEAN-FINANCIAL-REPORTING-ADVISORY-GROUP)|Standard|Public Consultation|29 April 2022|First Derivative Research|
 |[GRI](https://github.com/FD-SustainableFinance/RESEARCH---GLOBAL-REPORTING-INITIATIVE)|Standard|Public Consultation|29 April 2022|First Derivative Research|
-|[CDP](https://github.com/FD-SustainableFinance/RESEARCH-CDP)|Standard|Public Consultation|Public Consultation|DATE|First Derivative Research|
+|[CDP](https://github.com/FD-SustainableFinance/RESEARCH-CDP)|Standard|Public Consultation|23 March 2022|First Derivative Research|
 |[IIRC](https://github.com/FD-SustainableFinance/RESEARCH-International-Integrated-Reporting-Council-IIRC-)|Framework|Published|January 2021|First Derivative Research|
 |[GHG Protocol](https://github.com/FD-SustainableFinance/RESEARCH-GHGP)|Standard|Public Consultation|February 2017|First Derivative Research|
 |[CDSB](https://github.com/FD-SustainableFinance/RESEARCH-CDSB)|Framework|Public Consultation|31 April 2018|First Derivative Research|
 |[EU Taxonomy](https://github.com/FD-SustainableFinance/RESEARCH-EU-TAXONOMY)|Framework|Public Consultation|4 June 2021|First Derivative Research|
 |[PCAF](https://github.com/FD-SustainableFinance/RESEARCH-PCAF)|Framework|Public Consultation|18 November 2020|First Derivative - Research|
-|[UN Global Compact](https://github.com/FD-SustainableFinance/RESEARCH-UN-GC)|Framework|Public Consultation||Public Consultation |First Derivative Research|
+|[UN Global Compact](https://github.com/FD-SustainableFinance/RESEARCH-UN-GC)|Framework|Public Consultation|29 August 2022|First Derivative Research|
 |[UN SDGs](https://github.com/FD-SustainableFinance/RESEARCH-UN-SDG)|Framework|Public Consultation|4 March 2022|First Derivative Research|
 |[BCBS 239](https://github.com/FD-SustainableFinance/RESEARCH---BCBS-239---Risk-Data-Aggregation)|Principles|Published|9 January 2013|First Derivative Research|
 |[BCBS 530 - Climate Risk](https://github.com/FD-SustainableFinance/RESEARCH---BCBS-CLIMATE-RISK)|Principles|Published|15 June 2022|First Derivative Research|
