@@ -45,7 +45,7 @@ Several industry classification systems have also been taxonomised for use in co
 |[ISIC](https://github.com/FD-SustainableFinance/RESEARCH-ISIC)|Industry|Revision 4|14 August 2008|First Derivative Research|
 |[NACE](https://github.com/FD-SustainableFinance/RESEARCH-NACE-v-INTERNATIONAL-ECONOMIC-AND-INDUSTRY-CLASSIFICATIONS)|Industry|Revision 2|1 December 2006|First Derivative Research|
 |[NAICS](https://github.com/FD-SustainableFinance/RESEARCH-NAICS)|Industry|Published - Updated 2022|13 January 2022|First Derivative Research|
-|[SICS](https://github.com/FD-SustainableFinance/RESEARCH-SICS)|Industry|Published|1 August 2022|First Derivative Research|
+|[SICS](https://github.com/FD-SustainableFinance/RESEARCH-SICS)|Industry|Codified Standard|1 August 2022|First Derivative Research|
 |[TRBC](https://github.com/FD-SustainableFinance/RESEARCH-TRBC)|Industry|Published|January 2022|First Derivative Research|
 
 ## Research for Taxonomy Mapping
