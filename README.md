@@ -8,6 +8,22 @@ The initial focus of the OS-SFT project is the creation of a library of taxonomy
 
 The below tables offer a summary of the taxonomies reviewed. For detailed content regarding each taxonomy, including downloadable files and interactive Taxonomy Tools, visit the [Taxonomy & Mappings Library](https://github.com/orgs/FD-SustainableFinance/projects/2) or click the link in the left hand column of each table below.
 
+## Research for Industry Classification Taxonomies
+
+Several industry classification systems have also been taxonomised for use in conjunction with the above framework taxonomies. These are available in Batch 0 of the [Taxonomy & Mappings Library](https://github.com/orgs/FD-SustainableFinance/projects/2), and summarised below:
+
+|Taxonomy|Type|Stage|Date of Latest Update|Taxonomy Model Source|
+|--------|----|-----|---------------------|---------------------|
+|[BICS (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-BICS)|Industry|Partial model based on mapping to EU Taxonomy|9 March 2020|First Derivative Research|
+|[GICS](https://github.com/FD-SustainableFinance/RESEARCH-GICS)|Industry|Published|28 September 2018|First Derivative Research|
+|[ICB](https://github.com/FD-SustainableFinance/RESEARCH-ICB)|Industry|Published|June 2022|First Derivative Research|
+|[ISIC](https://github.com/FD-SustainableFinance/RESEARCH-ISIC)|Industry|Revision 4|14 August 2008|First Derivative Research|
+|[NACE](https://github.com/FD-SustainableFinance/RESEARCH-NACE-v-INTERNATIONAL-ECONOMIC-AND-INDUSTRY-CLASSIFICATIONS)|Industry|Revision 2|1 December 2006|First Derivative Research|
+|[NAICS](https://github.com/FD-SustainableFinance/RESEARCH-NAICS)|Industry|Published - Updated 2022|13 January 2022|First Derivative Research|
+|[SICS](https://github.com/FD-SustainableFinance/RESEARCH-SICS)|Industry|Codified Standard|1 August 2022|First Derivative Research|
+|[TRBC](https://github.com/FD-SustainableFinance/RESEARCH-TRBC)|Industry|Published|January 2022|First Derivative Research|
+
+
 ## Research for Single Taxonomies
 The first set of taxonomies relate to individual ESG disclosure regimes and regulations. Note that several of these frameworks are at the proposal stage only and have not yet been finalised by the relevant bodies. The below taxonomies are located in Batch 1 of the [Taxonomy & Mappings Library](https://github.com/orgs/FD-SustainableFinance/projects/2).
 
@@ -32,21 +48,6 @@ The first set of taxonomies relate to individual ESG disclosure regimes and regu
 |[TCFD](https://github.com/FD-SustainableFinance/RESEARCH---TASK-FORCE-ON-CLIMATE-RELATED-FINANCIAL-DISCLOSURES)|Framework|Published|October 2021|First Derivative Research|
 |[UN Global Compact](https://github.com/FD-SustainableFinance/RESEARCH-UN-GC)|Framework|Public Consultation|29 August 2022|First Derivative Research|
 |[UN SDGs](https://github.com/FD-SustainableFinance/RESEARCH-UN-SDG)|Framework|Public Consultation|4 March 2022|First Derivative Research|
-
-## Research for Industry Classification Taxonomies
-
-Several industry classification systems have also been taxonomised for use in conjunction with the above framework taxonomies. These are available in Batch 0 of the [Taxonomy & Mappings Library](https://github.com/orgs/FD-SustainableFinance/projects/2), and summarised below:
-
-|Taxonomy|Type|Stage|Date of Latest Update|Taxonomy Model Source|
-|--------|----|-----|---------------------|---------------------|
-|[BICS (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-BICS)|Industry|Partial model based on mapping to EU Taxonomy|9 March 2020|First Derivative Research|
-|[GICS](https://github.com/FD-SustainableFinance/RESEARCH-GICS)|Industry|Published|28 September 2018|First Derivative Research|
-|[ICB](https://github.com/FD-SustainableFinance/RESEARCH-ICB)|Industry|Published|June 2022|First Derivative Research|
-|[ISIC](https://github.com/FD-SustainableFinance/RESEARCH-ISIC)|Industry|Revision 4|14 August 2008|First Derivative Research|
-|[NACE](https://github.com/FD-SustainableFinance/RESEARCH-NACE-v-INTERNATIONAL-ECONOMIC-AND-INDUSTRY-CLASSIFICATIONS)|Industry|Revision 2|1 December 2006|First Derivative Research|
-|[NAICS](https://github.com/FD-SustainableFinance/RESEARCH-NAICS)|Industry|Published - Updated 2022|13 January 2022|First Derivative Research|
-|[SICS](https://github.com/FD-SustainableFinance/RESEARCH-SICS)|Industry|Codified Standard|1 August 2022|First Derivative Research|
-|[TRBC](https://github.com/FD-SustainableFinance/RESEARCH-TRBC)|Industry|Published|January 2022|First Derivative Research|
 
 ## Research for Taxonomy Mapping
 In addition to the individual taxonomies, mapping exercises have been completed to identify crossovers and differences between the disclosure and/or regulatory requirements of the above regimes.
