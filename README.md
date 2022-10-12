@@ -33,8 +33,18 @@ The first set of taxonomies relate to individual ESG disclosure regimes and regu
 |[UN Global Compact](https://github.com/FD-SustainableFinance/RESEARCH-UN-GC)|Framework|Public Consultation|29 August 2022|First Derivative Research|
 |[UN SDGs](https://github.com/FD-SustainableFinance/RESEARCH-UN-SDG)|Framework|Public Consultation|4 March 2022|First Derivative Research|
 
+## Research for Industry Classification Taxonomies
 
-Several industry classification systems have also been taxonomised for use in conjunction with the above framework taxonomies. These are available in Batch 0 of the [Taxonomy & Mappings Library](https://github.com/orgs/FD-SustainableFinance/projects/2).
+Several industry classification systems have also been taxonomised for use in conjunction with the above framework taxonomies. These are available in Batch 0 of the [Taxonomy & Mappings Library](https://github.com/orgs/FD-SustainableFinance/projects/2), and summarised below:
+
+|Taxonomy|Type|Stage|Date of Latest Update|Taxonomy Model Source|
+|--------|----|-----|---------------------|---------------------|
+|[BICS](https://github.com/FD-SustainableFinance/RESEARCH-BICS)|Industry|Published|DATE|First Derivative Research|
+|[GICS](https://github.com/FD-SustainableFinance/RESEARCH-GICS)|Industry|Published|DATE|First Derivative Research|
+|[ICB](https://github.com/FD-SustainableFinance/RESEARCH-ICB)|Industry|Published|DATE|First Derivative Research|
+|[NACE](https://github.com/FD-SustainableFinance/RESEARCH-NACE-v-INTERNATIONAL-ECONOMIC-AND-INDUSTRY-CLASSIFICATIONS)|Industry|Published|DATE|First Derivative Research|
+|[SICS](https://github.com/FD-SustainableFinance/RESEARCH-SICS)|Industry|Published|DATE|First Derivative Research|
+|[TRBC](https://github.com/FD-SustainableFinance/RESEARCH-TRBC)|Industry|Published|DATE|First Derivative Research|
 
 ## Research for Taxonomy Mapping
 In addition to the individual taxonomies, mapping exercises have been completed to identify crossovers and differences between the disclosure and/or regulatory requirements of the above regimes.
