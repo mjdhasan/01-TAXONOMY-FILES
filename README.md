@@ -26,7 +26,7 @@ The first set of taxonomies relate to individual ESG disclosure regimes and regu
 |[ISSB Exposure Draft S1](https://github.com/FD-SustainableFinance/RESEARCH---INTERNATIONAL-SUSTAINABILITY-STANDARDS-BOARD)|Standard|Preliminary Feedback|31 March 2022|First Derivative Research|
 |[ISSB Exposure Draft S2](https://github.com/FD-SustainableFinance/RESEARCH---INTERNATIONAL-SUSTAINABILITY-STANDARDS-BOARD)|Standard|Preliminary Feedback|31 March 2022|First Derivative Research|
 |[ISSB Exposure Draft S2 Appendix B](https://github.com/FD-SustainableFinance/RESEARCH---INTERNATIONAL-SUSTAINABILITY-STANDARDS-BOARD)|Standard|Preliminary Feedback|31 March 2022|First Derivative Research|
-|[PCAF](https://github.com/FD-SustainableFinance/RESEARCH-PCAF)|Framework|Public Consultation|18 November 2020|First Derivative - Research|
+|[PCAF](https://github.com/FD-SustainableFinance/RESEARCH-PCAF)|Framework|Public Consultation|18 November 2020|First Derivative Research|
 |[SASB](https://github.com/FD-SustainableFinance/RESEARCH---SUSTAINABILITY-ACCOUNTING-STANDARDS-BOARD/tree/main)|Standard|Published|Up to December 2021 (varies by industry)|First Derivative Research|
 |[SEC](https://github.com/FD-SustainableFinance/RESEARCH---SECURITIES-EXCHANGE-COMMISSION)|Proposed Rule|Preliminary Feedback|21 March 2022|First Derivative Research|
 |[TCFD](https://github.com/FD-SustainableFinance/RESEARCH---TASK-FORCE-ON-CLIMATE-RELATED-FINANCIAL-DISCLOSURES)|Framework|Published|October 2021|First Derivative Research|
