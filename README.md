@@ -40,11 +40,11 @@ Several industry classification systems have also been taxonomised for use in co
 |Taxonomy|Type|Stage|Date of Latest Update|Taxonomy Model Source|
 |--------|----|-----|---------------------|---------------------|
 |[BICS](https://github.com/FD-SustainableFinance/RESEARCH-BICS)|Industry|Published|DATE|First Derivative Research|
-|[GICS](https://github.com/FD-SustainableFinance/RESEARCH-GICS)|Industry|Published|DATE|First Derivative Research|
+|[GICS](https://github.com/FD-SustainableFinance/RESEARCH-GICS)|Industry|Published|28 September 2018|First Derivative Research|
 |[ICB](https://github.com/FD-SustainableFinance/RESEARCH-ICB)|Industry|Published|DATE|First Derivative Research|
-|[NACE](https://github.com/FD-SustainableFinance/RESEARCH-NACE-v-INTERNATIONAL-ECONOMIC-AND-INDUSTRY-CLASSIFICATIONS)|Industry|Published|DATE|First Derivative Research|
-|[SICS](https://github.com/FD-SustainableFinance/RESEARCH-SICS)|Industry|Published|DATE|First Derivative Research|
-|[TRBC](https://github.com/FD-SustainableFinance/RESEARCH-TRBC)|Industry|Published|DATE|First Derivative Research|
+|[NACE](https://github.com/FD-SustainableFinance/RESEARCH-NACE-v-INTERNATIONAL-ECONOMIC-AND-INDUSTRY-CLASSIFICATIONS)|Industry|Published|10 July 2008|First Derivative Research|
+|[SICS](https://github.com/FD-SustainableFinance/RESEARCH-SICS)|Industry|Published|1 August 2022|First Derivative Research|
+|[TRBC](https://github.com/FD-SustainableFinance/RESEARCH-TRBC)|Industry|Published|January 2022|First Derivative Research|
 
 ## Research for Taxonomy Mapping
 In addition to the individual taxonomies, mapping exercises have been completed to identify crossovers and differences between the disclosure and/or regulatory requirements of the above regimes.
