@@ -48,10 +48,10 @@ Please see Batch 2 and 3 in the [Taxonomy Mappings Library](https://github.com/o
 |----------------|------------|----------|------------|
 |[BCBS 239 - BCBS Climate Risk](https://github.com/FD-SustainableFinance/RESEARCH---TAXONOMY-MAPPING---BCBS-239---BCBS-Climate-Risk)|Pairwise|20221006|First Derivative Research|
 |[GRI - CDSB](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-CDSB)|Pairwise|20221004|First Derivative Research|
-|[GRI - GHG)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-GHG-PROTOCOL)|Pairwise|20221004|First Derivative Research|
-|[GRI - PCAF)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-PCAF)|Pairwise|20221004|First Derivative Research|
-|[GRI - SASB)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-SASB)|Pairwise|20221004|First Derivative Research|
-|[GRI - TCFD)](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-TCFD)|Pairwise|20221004|First Derivative Research|
+|[GRI - GHG](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-GHG-PROTOCOL)|Pairwise|20221004|First Derivative Research|
+|[GRI - PCAF](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-PCAF)|Pairwise|20221004|First Derivative Research|
+|[GRI - SASB](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-SASB)|Pairwise|20221004|First Derivative Research|
+|[GRI - TCFD](https://github.com/FD-SustainableFinance/RESEARCH-PARTIAL-TAXONOMY-MAPPING-GRI-TCFD)|Pairwise|20221004|First Derivative Research|
 |[ISSB - EBA P3](https://github.com/FD-SustainableFinance/RESEARCH---PAIRWISE-TAXONOMY-MAPPING---ISSB-v-EBA-Pillar-3)|Pairwise|20220916|First Derivative Research|
 |[ISSB - EFRAG ESRS 1](https://github.com/FD-SustainableFinance/RESEARCH-MAPPING-ISSB-S2-v-EFRAG)|Pairwise|20221006|First Derivative Research|
 |[ISSB - SASB](https://github.com/FD-SustainableFinance/RESEARCH-MAPPING-ISSB-S2-v-IFRS-SASB)|Pairwise|20220928|First Derivative Research|
