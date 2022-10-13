@@ -4,6 +4,7 @@
 
 # [1] TAXONOMY FILES
 
+## [Taxonomy & Mappings Library](https://github.com/orgs/FD-SustainableFinance/projects/2)
 The initial focus of the OS-SFT project is the creation of a library of taxonomy files, for a variety of sustainability disclosure frameworks and other initiatives, in human and machine readable format.
 
 The below tables offer a summary of the taxonomies reviewed. For detailed content regarding each taxonomy, including downloadable files and interactive Taxonomy Tools, visit the [Taxonomy & Mappings Library](https://github.com/orgs/FD-SustainableFinance/projects/2) or click the link in the left hand column of each table below.
