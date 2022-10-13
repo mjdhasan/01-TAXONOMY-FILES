@@ -52,8 +52,7 @@ The first set of taxonomies relate to individual ESG disclosure regimes and regu
 ## Research for Taxonomy Mapping
 In addition to the individual taxonomies, mapping exercises have been completed to identify crossovers and differences between the disclosure and/or regulatory requirements of the above regimes.
 - Comparisons were made across requirements spanning governance, strategy, risk management, and metrics/targets including specific GHG emissions and exposure metrics and methodologies.
-- This resulted in the identification of potential synergies with current reporting activities and data requirements, including how these might inform asset re-pricing and incorporation of climate risk metrics into existing risk practices. This is of particular interest to the evolving sustainable finance solutions being developed between [First Derivative](https://firstderivative.com/sustainable-finance/), [Corlytics](https://www.corlytics.com/), [Solidatus](https://www.solidatus.com/) and [Sustainable Finance Ireland](https://www.sustainablefinance.ie/) with funding from [Skillnet Ireland](https://www.skillnetireland.ie/).
-We see a future where end-to-end, multi-nodal taxonomy mapping becomes central to all operating models for data, risk, controls and reporting.
+- This resulted in the identification of potential synergies with current reporting activities and data requirements, including how these might inform asset re-pricing and incorporation of climate risk metrics into existing risk practices. We see a future where end-to-end, multi-nodal taxonomy mapping becomes central to all operating models for data, risk, controls and reporting.
 
 Please see Batch 2 and 3 in the [Taxonomy Mappings Library](https://github.com/orgs/FD-SustainableFinance/projects/2) for details of the completed mappings, summarised below:
 
