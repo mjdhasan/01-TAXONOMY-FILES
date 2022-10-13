@@ -14,7 +14,7 @@ Several industry classification systems have also been taxonomised for use in co
 
 |Taxonomy|Type|Stage|Date of Latest Update|Taxonomy Model Source|
 |--------|----|-----|---------------------|---------------------|
-|[BICS (Partial)](https://github.com/FD-SustainableFinance/RESEARCH-BICS)|Industry|Partial model based on mapping to EU Taxonomy|9 March 2020|First Derivative Research|
+|[BICS](https://github.com/FD-SustainableFinance/RESEARCH-BICS)|Industry|Partial model based on mapping to EU Taxonomy|9 March 2020|First Derivative Research|
 |[GICS](https://github.com/FD-SustainableFinance/RESEARCH-GICS)|Industry|Published|28 September 2018|First Derivative Research|
 |[ICB](https://github.com/FD-SustainableFinance/RESEARCH-ICB)|Industry|Published|June 2022|First Derivative Research|
 |[ISIC](https://github.com/FD-SustainableFinance/RESEARCH-ISIC)|Industry|Revision 4|14 August 2008|First Derivative Research|
