@@ -1,37 +1,37 @@
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
-**Navigate: [Become a partner?](https://github.com/FD-SustainableFinance/l6l-PARTNERS)**
+**Navigate: [Become a partner?](https://github.com/OS-SFT/06-COLLABORATORS-PARTNERS)**
 **... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
 <details><summary>CONTENTS</summary>
 <p>
 
-[0] [OS-SFT OVERVIEW](https://github.com/FD-SustainableFinance/0-OS-SFT-OVERVIEW/blob/main/README.md)
+[0] [OS-SFT OVERVIEW](https://github.com/OS-SFT/0-OS-SFT-OVERVIEW)
 
-- [0.1] [OS-SFT HISTORY](https://github.com/FD-SustainableFinance/0.1-OS-SFT-OVERVIEW-this-page-/blob/main/README.md)
+- [0.1] [OS-SFT HISTORY](https://github.com/OS-SFT/0.1-OS-SFT-OVERVIEW-this-page-)
 
-- [0.2] [TAXONOMIES, FINANCIAL LIFE ON EARTH & THE BIG GREEN SHORT](https://github.com/FD-SustainableFinance/0.2-TAXONOMIES-FINANCIAL-LIFE-ON-EARTH/blob/main/README.md)
+- [0.2] [TAXONOMIES, FINANCIAL LIFE ON EARTH & THE BIG GREEN SHORT](https://github.com/OS-SFT/0.2-TAXONOMIES-FINANCIAL-LIFE-ON-EARTH-AND-THE-BIG-GREEN-SHORT)
 
-- [0.3] [INTRODUCTION TO OPEN-SOURCE](https://github.com/FD-SustainableFinance/0.3-INTRODUCTION-TO-OPEN-SOURCE/blob/main/README.md)
+- [0.3] [INTRODUCTION TO OPEN-SOURCE](https://github.com/OS-SFT/0.3-INTRODUCTION-TO-OPEN-SOURCE)
 
-[1] [TAXONOMY FILES](https://github.com/FD-SustainableFinance/01-TAXONOMY-FILES)
+[1] [TAXONOMY FILES](https://github.com/OS-SFT/01-TAXONOMY-FILES)
 
-[2] [TAXONOMY TOOLS](https://github.com/FD-SustainableFinance/02-TAXONOMY-TOOLS)
+[2] [TAXONOMY TOOLS](https://github.com/OS-SFT/02-TAXONOMY-TOOLS)
 
-[3] [TAXONOMY RESEARCH PAPERS](https://github.com/FD-SustainableFinance/03-TAXONOMY-RESEARCH-PAPERS)
+[3] [TAXONOMY RESEARCH PAPERS](https://github.com/OS-SFT/03-TAXONOMY-RESEARCH-PAPERS)
 
-[4] [TAXONOMY USE CASES](https://github.com/FD-SustainableFinance/04-TAXONOMY-USE-CASES)
+[4] [TAXONOMY USE CASES](https://github.com/OS-SFT/04-TAXONOMY-USE-CASES)
 
-[5] [TAXONOMY BACKLOG](https://github.com/FD-SustainableFinance/05-TAXONOMY-BACKLOG)
+[5] [TAXONOMY BACKLOG](https://github.com/OS-SFT/05-TAXONOMY-BACKLOG)
 
-[6] [PARTNERS](https://github.com/FD-SustainableFinance/06-PARTNERS)
+[6] [PARTNERS](https://github.com/OS-SFT/06-COLLABORATORS-PARTNERS)
 
-[7] [NEWS](https://github.com/FD-SustainableFinance/07-NEWS)
+[7] [NEWS](https://github.com/OS-SFT/07-NEWS)
 
-[8] [KEY CONTACTS](https://github.com/FD-SustainableFinance/08-KEY-CONTACTS)
+[8] [KEY CONTACTS](https://github.com/OS-SFT/08-KEY-CONTACTS)
 
-[9] [PROJECT GOVERNANCE](https://github.com/FD-SustainableFinance/09-PROJECT-GOVERNANCE)
+[9] [PROJECT GOVERNANCE](https://github.com/OS-SFT/09-PROJECT-GOVERNANCE)
 
-[10] [INDEX AND GLOSSARY](https://github.com/FD-SustainableFinance/10-INDEX-AND-GLOSSARY/blob/main/README.md)
+[10] [INDEX AND GLOSSARY](https://github.com/OS-SFT/10-INDEX-AND-GLOSSARY)
 </p>
 </details>
 
@@ -44,7 +44,7 @@ The below tables offer a summary of the taxonomies reviewed. For detailed conten
 
 ## Research for Industry Classification Taxonomies
 
-Several industry classification systems have also been taxonomised for use in conjunction with the above framework taxonomies. These are available in Batch 0 of the [Taxonomy & Mappings Library](https://github.com/orgs/FD-SustainableFinance/projects/2), and summarised below:
+Several industry classification systems have also been taxonomised for use in conjunction with the above framework taxonomies. These are available in Batch 0 of the [Taxonomy & Mappings Library](https://github.com/orgs/OS-SFT/projects/2), and summarised below:
 
 |Taxonomy|Type|Stage|Date of Latest Update|Taxonomy Model Source|
 |--------|----|-----|---------------------|---------------------|
@@ -59,7 +59,7 @@ Several industry classification systems have also been taxonomised for use in co
 
 
 ## Research for Single Taxonomies
-The first set of taxonomies relate to individual ESG disclosure regimes and regulations. Note that several of these frameworks are at the proposal stage only and have not yet been finalised by the relevant bodies. The below taxonomies are located in Batch 1 of the [Taxonomy & Mappings Library](https://github.com/orgs/FD-SustainableFinance/projects/2).
+The first set of taxonomies relate to individual ESG disclosure regimes and regulations. Note that several of these frameworks are at the proposal stage only and have not yet been finalised by the relevant bodies. The below taxonomies are located in Batch 1 of the [Taxonomy & Mappings Library](https://github.com/orgs/OS-SFT/projects/2).
 
 |Taxonomy|Type|Stage|Date of Latest Update|Taxonomy Model Source|
 |--------|----|-----|---------------------|---------------------|
@@ -88,7 +88,7 @@ In addition to the individual taxonomies, mapping exercises have been completed 
 - Comparisons were made across requirements spanning governance, strategy, risk management, and metrics/targets including specific GHG emissions and exposure metrics and methodologies.
 - This resulted in the identification of potential synergies with current reporting activities and data requirements, including how these might inform asset re-pricing and incorporation of climate risk metrics into existing risk practices. We see a future where end-to-end, multi-nodal taxonomy mapping becomes central to all operating models for data, risk, controls and reporting.
 
-Please see Batch 2 and 3 in the [Taxonomy Mappings Library](https://github.com/orgs/FD-SustainableFinance/projects/2) for details of the completed mappings, summarised below:
+Please see Batch 2 and 3 in the [Taxonomy Mappings Library](https://github.com/orgs/OS-SFT/projects/2) for details of the completed mappings, summarised below:
 
 |Taxonomy Mapping|Mapping Type|Model Date|Model Source|
 |----------------|------------|----------|------------|
