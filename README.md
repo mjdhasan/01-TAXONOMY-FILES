@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
 **Navigate: [Become a partner?](https://github.com/FD-SustainableFinance/l6l-PARTNERS)**
-**... Or ... [See the Taxonomy Library?](https://github.com/orgs/FD-SustainableFinance/projects/2)**
+**... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
 <details><summary>CONTENTS</summary>
 <p>
@@ -37,10 +37,10 @@
 
 # [1] TAXONOMY FILES
 
-## [Taxonomy & Mappings Library](https://github.com/orgs/FD-SustainableFinance/projects/2)
+## [Taxonomy & Mappings Library](https://github.com/orgs/OS-SFT/projects/2)
 The initial focus of the OS-SFT project is the creation of a library of taxonomy files, for a variety of sustainability disclosure frameworks and other initiatives, in human and machine readable format.
 
-The below tables offer a summary of the taxonomies reviewed. For detailed content regarding each taxonomy, including downloadable files and interactive Taxonomy Tools, visit the [Taxonomy & Mappings Library](https://github.com/orgs/FD-SustainableFinance/projects/2) or click the link in the left hand column of each table below.
+The below tables offer a summary of the taxonomies reviewed. For detailed content regarding each taxonomy, including downloadable files and interactive Taxonomy Tools, visit the [Taxonomy & Mappings Library](https://github.com/orgs/OS-SFT/projects/2) or click the link in the left hand column of each table below.
 
 ## Research for Industry Classification Taxonomies
 
